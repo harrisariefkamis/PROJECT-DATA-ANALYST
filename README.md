@@ -12,7 +12,7 @@ Repositori ini dirancang untuk membantu peserta:
 - membangun visualisasi yang informatif;
 - mempersiapkan CV, interview, dan portofolio data analysis.
 
-## Index Materi (01–06)
+## Temuan Utama (Guideline & Overview)
 
 Berikut index singkat modul yang tersedia di repo ini:
 
@@ -22,9 +22,6 @@ Berikut index singkat modul yang tersedia di repo ini:
 - 04-statistics — [README](./04-statistics/README.md)
 - 05-metrics — [README](./05-metrics/README.md)
 - 06-data-cleaning — [README](./06-data-cleaning/README.md)
-
-Untuk materi lanjutan, repo ini juga menyiapkan modul berikut:
-
 - 07-sql-basic-1 — [README](./07-sql-basic-1/README.md)
 - 08-sql-basic-2 — [README](./08-sql-basic-2/README.md)
 - 09-sql-basic-3 — [README](./09-sql-basic-3/README.md)
@@ -37,7 +34,7 @@ Untuk materi lanjutan, repo ini juga menyiapkan modul berikut:
 - 16-data-studio — [README](./16-data-studio/README.md)
 - 17-projects-and-interviews — [README](./17-projects-and-interviews/README.md)
 
-## Struktur Repo
+## Struktur Repository
 
 ```text
 PROJECT-DATA-ANALYST/
@@ -125,7 +122,17 @@ Setiap folder modul dapat berisi:
 Silakan baca [CONTRIBUTING.md](CONTRIBUTING.md) untuk pedoman pengembangan repositori.
 
 ## Lisensi
-Repositori ini dibuat untuk kebutuhan pembelajaran. Anda bisa menyesuaikan lisensi sesuai kebutuhan organisasi atau proyek.
+Copyright © {2026} Haris Arief Kamis
+
+All rights reserved.
+
+This repository and its contents (the “Materials”) are protected by copyright and other applicable laws. Except as expressly permitted, you may not copy, modify, publish, distribute, transmit, display, perform, or create derivative works of the Materials for any purpose (including commercial use) without the prior written permission of the copyright owner.
+
+Hak Cipta © {2026} Haris Arief Kamis. Semua hak dilindungi.
+
+Konten dalam repositori ini dipublikasikan untuk tujuan pembelajaran dan portofolio. Materi, kode, dataset, notebook, dan dokumen lain di repositori ini tidak boleh disalin, disebarluaskan, atau digunakan ulang (termasuk untuk tujuan komersial) tanpa izin tertulis dari pemilik hak cipta (Haris Arief Kamis). Untuk permintaan lisensi atau kerja sama, silakan hubungi: https://www.linkedin.com/in/harisariefkamis.
+
+Pelanggaran terhadap ketentuan ini dapat dikenai tindakan perdata dan/atau pidana menurut peraturan perundang‑undangan yang berlaku di Indonesia, termasuk tetapi tidak terbatas pada Undang‑Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang‑Undang Nomor 19 Tahun 2016 (UU ITE) dan ketentuan hak cipta di bawah Undang‑Undang Hak Cipta. Pemilik hak berhak menuntut penghapusan/penarikan konten yang melanggar dari platform pihak ketiga dan/atau menempuh upaya hukum sesuai hukum yang berlaku.
 
 ## CONTACT SAYA:
 ```
