@@ -1,4 +1,3 @@
-# On Boarding
 # Secure Your First Data Analyst Job
 
 ## Tujuan
@@ -15,9 +14,6 @@ Memahami proses masuk ke dunia data analysis, menyiapkan mindset belajar, serta 
 - catatan personal roadmap belajar
 - daftar tools yang perlu dipelajari
 - target belajar mingguan
-
-## Slides
-- Rintis Karir Impian (overview & case studies): [slides/RintisKarirImpian.md](slides/RintisKarirImpian.md)
 
 ## Referensi
 - LinkedIn learning / Coursera / YouTube channel data analytics
