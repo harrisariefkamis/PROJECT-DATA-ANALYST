@@ -1,13 +1,15 @@
-# Data Cleaning — Modul Overview
+# 06 - Data Cleaning
 
-Modul ini membahas teknik dasar pembersihan dan format data dengan fokus tools: Google Sheets dan Python (pada modul lanjutan). Materi praktis meliputi:
+This folder contains beginner and advanced data cleaning case studies with sample data and examples in pandas/SQL. Use these as hands-on exercises for learners to practice common data cleaning tasks.
 
-- Extract: mengambil data dari csv & sheet lain
-- Format: number, text, date, conditional formatting
-- Clean: remove duplicates, handle missing, standardize types
-- Validate: data validation untuk mencegah kesalahan input
+Files included:
+- README.md (this file)
+- beginner_case.md (simple case + sample CSV & pandas code)
+- advanced_case.md (advanced case + SQL & data-quality checks)
+- data/sample_sales.csv (small CSV for beginner)
+- data/sample_transactions.csv (small CSV for advanced)
 
-Slides praktis untuk Google Sheets: `slides/GoogleSheets_Extract_Format_Clean.md`
-Exercises: `exercises/google-sheets-mini-task/`
-
-Silakan kerjakan mini task dan unggah hasilnya pada folder exercises.
+How to use:
+- Open the sample CSV files in a notebook (Google Colab/Jupyter)
+- Follow steps in the case markdown files and run the provided example code
+- Modify and extend the examples to practice

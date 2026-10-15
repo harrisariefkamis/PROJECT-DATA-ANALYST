@@ -1,0 +1,9 @@
+order_id,order_date,customer_name,product,quantity,price,country
+1001,2026-10-01,Adi,Notebook,2,350000,ID
+1002,2026-10-01,Siti,Pen,5,2500,ID
+1003,2026-10-02,John Doe,Pencil,,500,US
+1004,2026-10-02,   ANA   ,Eraser,1,300,ID
+1005,,Budi,Notebook,1,350000,ID
+1006,2026-10-03,Test User,Notebook,2,350000,ID
+1006,2026-10-03,Test User,Notebook,2,350000,ID
+1007,2026-10-04,Clara,Marker,3,,ID

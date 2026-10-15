@@ -1,0 +1,7 @@
+tx_id,user_id,event_time,amount,currency,product_id,channel,raw_notes
+T1001,U01,2026-10-01T08:15:27Z,49.99,USD,P100,web,paid via stripe
+T1002,U02,2026-10-01 15:20:00+07:00,750000,IDR,P201,mobile,bank transfer
+T1003,U03,2026-10-02T23:55:00Z,0,USD,P100,web,refund
+T1004,U04,2026-10-03T05:12:00Z,199.5,USD,P301,web,
+T1005,U05,not_a_date,1200,IDR,P105,mobile,missing timestamp
+T1004,U04,2026-10-03T05:12:00Z,199.5,USD,P301,web,duplicate
