@@ -18,7 +18,7 @@ Memahami proses masuk ke dunia data analysis, menyiapkan mindset belajar, serta 
 
 ## Notes Penting:
 - Temuan Utama (overview & outline show)
-- Anda diwajibkan membaca Roadmaps belajar disini:[README.md]
+- Anda diwajibkan membaca Roadmaps belajar disini: README.md
 
 ## Referensi
 - LinkedIn learning / Coursera / YouTube channel data analytics
