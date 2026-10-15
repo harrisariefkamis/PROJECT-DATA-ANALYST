@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Haris Arief Kamis
+N:Kamis;Haris;;;
+ORG:Data Enthusiast
+TITLE:Data Analyst
+ADR;TYPE=WORK:;;Bogor Timur;Kota Bogor;;16144;Indonesia
+URL:https://bit.ly/WebsitePortofolioDataAnalyst
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/harisariefkamis
+URL;TYPE=GitHub:https://github.com/harrisariefkamis
+NOTE:Prefer contact via LinkedIn or GitHub. If you want phone or email added, provide details.
+END:VCARD
