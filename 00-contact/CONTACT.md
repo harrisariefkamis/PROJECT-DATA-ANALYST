@@ -10,9 +10,11 @@ Media Sosial:
 - Website / Portofolio: https://bit.ly/WebsitePortofolioDataAnalyst
 
 Deskripsi publik:
-> Haris Arief Kamis — Data Enthusiast
-> Membantu produk & tim membuat keputusan berbasis data: data cleaning, analisis, dan desain metrik. Terbiasa dengan SQL dan Python (pandas). Lihat portofolio: https://bit.ly/WebsitePortofolioDataAnalyst
+> saya terbiasa bekerja dengan data "Data is new oil" 
+> saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda & anda dan tim bisa membuat keputusan berbasis data: data cleaning, analisis, dan desain metrik. Terbiasa dengan SQL dan Python (pandas).sehingga keputusan dan kebijakan mengelola suatu project berdasarkan data.
+
+Lihat portofolio: https://bit.ly/WebsitePortofolioDataAnalyst
 
 Cara menghubungi saya:
 - Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
-
+- terima kasih.saya senang bertemu dengan anda.!
