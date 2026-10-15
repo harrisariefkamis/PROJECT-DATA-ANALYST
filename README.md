@@ -1,6 +1,8 @@
 # PROJECT-DATA-ANALYST
 
-Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan pekerjaan.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/06-data-cleaning/notebooks/06_data_cleaning_beginner.ipynb)
+
+Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier.
 
 ## Tujuan Pembelajaran
 Repositori ini dirancang untuk membantu peserta:
