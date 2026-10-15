@@ -1,6 +1,6 @@
 # PROJECT-DATA-ANALYST
 
-Selamat datang di repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan pekerjaan.
+Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan pekerjaan.
 
 ## Tujuan Pembelajaran
 Repositori ini dirancang untuk membantu peserta:
