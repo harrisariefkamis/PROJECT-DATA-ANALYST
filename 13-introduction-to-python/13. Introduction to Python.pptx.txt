@@ -1,18 +1,5 @@
-#RintisKarirImpian
-Introduction to Python
-Wijaya Putra (LinkedIn)
-Data Analyst Officer
-FREEPORT INDONESIA
+# Poin Belajar
 
-
-#RintisKarirImpian
-Perkenalan
-2023 - Data Analyst Officer at PT FREEPORT INDONESIA
-2021 - Business Analyst at PT SUBUR NUSANTARA MAJU
-2022 - Data Analyst at PT SOCIAL BELLA INDONESIA (SOCIOLLA)
-
-#RintisKarirImpian
-Poin Belajar
 Why Python?
 What is Python?
 Introduction to Notebook
@@ -146,11 +133,4 @@ Installation and access guide
 Silahkan mengikuti cara install Google Colab dengan akses : Installation Guide Here
 Penggunaan Google Colab dapat diakses melalui link : How to use Gcolab Here.
 
-Silahkan untuk “Save a Copy in Drive” ke google drive masing-masing
-Buka Google Colab ka Wijaya (click)
-File > Save a copy in drive
-Silahkan untuk edit dan ketik pada file colab  masing-masing
-Kamu juga bisa merefresh google colab tsb untuk  melihat codingan terbaru
-
-#RintisKarirImpian
 Thank You!
