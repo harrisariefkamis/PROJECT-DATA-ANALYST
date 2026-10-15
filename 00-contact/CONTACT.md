@@ -1,8 +1,8 @@
 # CONTACT — Haris Arief Kamis
 
-Nama: Haris Arief Kamis
+Haris Arief Kamis
 Data Enthusiast / Data Analyst
-Lokasi: Bogor Timur, Kota Bogor, 16144
+Bogor Timur, Kota Bogor, 16144
 
 Link publik:
 - LinkedIn: https://www.linkedin.com/in/harisariefkamis
