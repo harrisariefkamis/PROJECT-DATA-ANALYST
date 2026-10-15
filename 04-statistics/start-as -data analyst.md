@@ -143,5 +143,5 @@ Deteksi umum: nilai di luar [Q1 − 1.5×IQR, Q3 + 1.5×IQR] atau Z-score absolu
 ---
 
 ## Referensi singkat
-- Materi internal modul / slide #RintisKarirImpian  
+- Materi internal modul  
 - Sumber pengantar statistik umum (buku & artikel online)
