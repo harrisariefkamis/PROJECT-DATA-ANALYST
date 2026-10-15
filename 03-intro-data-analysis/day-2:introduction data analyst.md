@@ -1,4 +1,4 @@
-# RintisKarirImpian — Kickstart Career as Data Analyst
+# Career as Data Analyst
 
 ## Expected outcome
 Setelah mempelajari modul ini, peserta akan:
