@@ -1,15 +1,25 @@
+# On Boarding
 # Secure Your First Data Analyst Job
 
 ## Tujuan
-Membantu peserta memahami strategi agar dapat mendapatkan pekerjaan pertama sebagai Data Analyst, termasuk CV, portfolio, dan pendekatan saat job search.
+Memahami proses masuk ke dunia data analysis, menyiapkan mindset belajar, serta mengetahui tahapan yang dibutuhkan untuk membangun fondasi karier di bidang data.
 
 ## Materi Yang Dipelajari
-- cara menyusun CV data analyst
-- portofolio project yang relevan
-- strategi networking dan job application
-- interview prep untuk role data analyst
+- gambaran umum dunia data analyst
+- target karier dan roadmap belajar
+- setup lingkungan kerja
+- manajemen waktu belajar
+- ekspektasi dan tantangan dalam industri data
 
 ## Deliverables
-- CV versi data analyst
-- satu atau dua project portfolio
-- checklist interview preparation
+- catatan personal roadmap belajar
+- daftar tools yang perlu dipelajari
+- target belajar mingguan
+
+## Slides
+- Rintis Karir Impian (overview & case studies): [slides/RintisKarirImpian.md](slides/RintisKarirImpian.md)
+
+## Referensi
+- LinkedIn learning / Coursera / YouTube channel data analytics
+- komunitas data science lokal
+
