@@ -1,0 +1,156 @@
+#RintisKarirImpian
+Introduction to Python
+Wijaya Putra (LinkedIn)
+Data Analyst Officer
+FREEPORT INDONESIA
+
+
+#RintisKarirImpian
+Perkenalan
+2023 - Data Analyst Officer at PT FREEPORT INDONESIA
+2021 - Business Analyst at PT SUBUR NUSANTARA MAJU
+2022 - Data Analyst at PT SOCIAL BELLA INDONESIA (SOCIOLLA)
+
+#RintisKarirImpian
+Poin Belajar
+Why Python?
+What is Python?
+Introduction to Notebook
+Operasi aritmatika, variable, dan tipe data
+Installation
+
+TIOBE Index 2022. https://www.tiobe.com/tiobe-index
+#RintisKarirImpian
+Why Python
+Python menjadi bahasa pemrograman paling populer saat  ini menurut TIOBE index tahun 2022. Alasannya?
+
+Mudah dipelajari untuk pemula
+Syntax yang mudah dibaca dan efisien
+Merupakan “interpreted language” yang  cocok untuk pemrograman dinamis (seperti  olah data)
+Memiliki ekosistem raksasa baik untuk  pemrograman web maupun untuk data  analisis
+
+#RintisKarirImpian
+Python for Data Analysis
+Python memiliki tool box lengkap untuk membantu kita dalam proses  perhitungan statistik, matematik, data analisis dan machine learning dengan  dukungan ekosistem berbasis komunitas yang luas.
+
+#RintisKarirImpian
+Option to Run Python
+Ada banyak cara untuk mengunduh dan instalasi Python di komputer kamu. Cara paling konvensional dengan unduh  melalui https://www.python.org/downloads
+Opsi 2
+Jalankan melalui platform gratis dari  google:  https://colab.research.google.com
+
+
+
+
+Opsi 1
+Gunakan Anaconda : framework data science berbasis python.  Download melalui https://www.anaconda.com/
+
+Sudah termasuk:
+Python
+Virtual environment
+Package manager
+IDE (Jupyter notebook)
+
+
+#RintisKarirImpian
+Introduction to Notebook
+Notebook (seperti colab atau jupyter notebook) memanfaatkan ﬁtur python sebagai interpreted language dengan  menggunakan sistem code berbasis blok. Sehingga kode bisa dijalankan secara dinamis melalui blok demi blok.
+
+#RintisKarirImpian
+Operasi aritmatika, variable, dan tipe objek
+Berkenalan dengan basic penggunaan python untuk data analysis
+
+#RintisKarirImpian
+Operator aritmatika
+Operator matematika dari prioritas tertinggi ke terendah :  Prioritas tertinggi akan di eksekusi lebih dahulu
+Contoh:
+
+#Ri
+ntisKarirImpian
+Variable
+Variabel dalam pemrograman digunakan untuk menyimpan objek/ informasi/nilai. Di Python, variabel ditetapkan dengan menggunakan =. Pada contoh di samping, angka 2 ditetapkan sebagai objek/nilai dari variabel, dan tulisan “Imam” ditetapkan pada nama variabel.
+Penggunaan fungsi print() untuk mencetak isi variable pada console
+Tipe data
+
+#Ri
+ntisKarirImpian
+Tipe Objek
+Tipe Objek
+Contoh
+Keterangan
+Integer
+-2, -1, 0, 1, 2,	                                     Bilangan bulat  
+Float	         -1.0, -0.5, 0.0, 0.5,	                                      Bilangan real / pecahan
+String
+'a', 'Hello!', '11 cats', “asfa12”
+Tipe objek berupa text. Gunakan ‘ ’ atau “ ” atau “ ” “ ”
+Boolean
+True,False
+Tipe data yang hanya memiliki dua
+nilai, True/False
+Pada	python, type objek tidak perlu dituliskan secara eksplisit. Kita dapat mengetahui tipe objek pada variabel atau nilai yang telah didefinisikan dengan menggunakan fungsi type()
+
+#RintisKarirImpian
+Data Collection
+Pada python, koleksi data dapat disimpan dalam bentuk list, tuple, set, dan dictionary.
+
+Struktur
+
+Penyimpanan  penyimpanan
+
+Pendefinisian
+
+Informasi  Urutan
+
+Mutable
+
+Referensi manipulasi data
+List
+Menyimpan koleksi data
+A = [1,2,3,“b”]
+ya
+ya
+https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples
+Tuple
+Menyimpan koleksi data
+A = (1,2,3,“b”)
+ya
+tidak
+https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples
+
+Set
+Menyimpan koleksi data  unik
+
+A = {1,2,3,”b”}
+
+tidak
+
+tidak
+https://www.pythoncheatsheet.org/cheatsheet/sets
+
+
+Dictionary
+
+Menyimpan koleksi data dalam bentuk key-value  pair
+
+D = {“key1”: 1, “key2”:  2}
+
+
+tidak
+
+ya
+
+https://www.pythoncheatsheet.org/cheatsheet/dictionaries
+
+Installation and access guide
+Silahkan mengikuti cara install Google Colab dengan akses : Installation Guide Here
+Penggunaan Google Colab dapat diakses melalui link : How to use Gcolab Here.
+
+Silahkan untuk “Save a Copy in Drive” ke google drive masing-masing
+Buka Google Colab ka Wijaya (click)
+File > Save a copy in drive
+Silahkan untuk edit dan ketik pada file colab  masing-masing
+Kamu juga bisa merefresh google colab tsb untuk  melihat codingan terbaru
+
+#RintisKarirImpian
+Thank You!
