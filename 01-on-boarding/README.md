@@ -16,7 +16,7 @@ Memahami proses masuk ke dunia data analysis, menyiapkan mindset belajar, serta 
 - target belajar mingguan
 
 ## Slides
-- Rintis Karir Impian (overview & case studies): [slides/RintisKarirImpian.md](slides/RintisKarirImpian.md)
+- Rintis Karir Impian (overview & case studies)
 - Problem Solving Framework: [slides/Problem-Solving-Framework.md](slides/Problem-Solving-Framework.md)
 
 ## Referensi
