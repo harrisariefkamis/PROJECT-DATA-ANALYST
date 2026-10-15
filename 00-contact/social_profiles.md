@@ -1,7 +1,4 @@
-# Social Profiles
-"""
-username:
-harisariefkamis
-"""
+# Profile Hub
+
 Portofolio: https://bit.ly/WebsitePortofolioDataAnalyst
 
