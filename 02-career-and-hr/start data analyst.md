@@ -1,4 +1,4 @@
-# Rintis Karir Impian — Kickstart Career as Data Analyst
+# Start Career as Data Analyst
 
 ## Poin Belajar
 - What is Data? How it stored?
