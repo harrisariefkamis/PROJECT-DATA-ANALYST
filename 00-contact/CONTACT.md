@@ -1,9 +1,9 @@
-# CONTACT — Haris Arief Kamis
-
+# CONTACT SAYA:
+```
 Haris Arief Kamis
 Data Enthusiast / Data Analyst
 Bogor Timur, Kota Bogor, 16144
-
+```
 Link publik:
 - LinkedIn: https://www.linkedin.com/in/harisariefkamis
 - GitHub: https://github.com/harrisariefkamis
