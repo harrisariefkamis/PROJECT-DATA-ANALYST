@@ -11,7 +11,7 @@ Media Sosial:
 
 Deskripsi publik:
 > saya terbiasa bekerja dengan data "Data is new oil" 
-> saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda & anda dan tim bisa membuat keputusan berbasis data: data cleaning, analisis, dan desain metrik. Terbiasa dengan SQL dan Python (pandas).sehingga keputusan dan kebijakan mengelola suatu project berdasarkan data.
+> saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda & anda dan tim bisa membuat keputusan berbasis data:Fokus pada statistik dasar, SQL untuk analisis bisnis, Python (NumPy & Pandas), pembersihan data, visualisasi, dan persiapan wawancara teknis.sehingga keputusan dan kebijakan mengelola suatu project berdasarkan data.
 
 Lihat portofolio: https://bit.ly/WebsitePortofolioDataAnalyst
 
