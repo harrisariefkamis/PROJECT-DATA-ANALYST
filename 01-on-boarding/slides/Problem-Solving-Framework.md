@@ -1,4 +1,4 @@
-# Problem Solving Framework — RintisKarirImpian
+# Problem Solving Framework
 
 ## Expected Outcome
 Setelah menyelesaikan modul ini peserta akan:
