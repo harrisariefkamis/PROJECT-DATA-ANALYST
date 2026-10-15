@@ -12,6 +12,31 @@ Repositori ini dirancang untuk membantu peserta:
 - membangun visualisasi yang informatif;
 - mempersiapkan CV, interview, dan portofolio data analysis.
 
+## Index Materi (01–06)
+
+Berikut index singkat modul yang tersedia di repo ini:
+
+- 01-on-boarding — [README](./01-on-boarding/README.md)
+- 02-career-and-hr — [README](./02-career-and-hr/README.md)
+- 03-intro-data-analysis — [README](./03-intro-data-analysis/README.md)
+- 04-statistics — [README](./04-statistics/README.md)
+- 05-metrics — [README](./05-metrics/README.md)
+- 06-data-cleaning — [README](./06-data-cleaning/README.md)
+
+Untuk materi lanjutan, repo ini juga menyiapkan modul berikut:
+
+- 07-sql-basic-1 — [README](./07-sql-basic-1/README.md)
+- 08-sql-basic-2 — [README](./08-sql-basic-2/README.md)
+- 09-sql-basic-3 — [README](./09-sql-basic-3/README.md)
+- 10-sql-advanced — [README](./10-sql-advanced/README.md)
+- 11-sql-interview-cases — [README](./11-sql-interview-cases/README.md)
+- 12-python-basic-project — [README](./12-python-basic-project/README.md)
+- 13-python-numpy-pandas — [README](./13-python-numpy-pandas/README.md)
+- 14-python-study-cases — [README](./14-python-study-cases/README.md)
+- 15-data-viz-basic — [README](./15-data-viz-basic/README.md)
+- 16-data-studio — [README](./16-data-studio/README.md)
+- 17-projects-and-interviews — [README](./17-projects-and-interviews/README.md)
+
 ## Struktur Repo
 
 ```text
