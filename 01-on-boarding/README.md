@@ -15,6 +15,10 @@ Memahami proses masuk ke dunia data analysis, menyiapkan mindset belajar, serta 
 - daftar tools yang perlu dipelajari
 - target belajar mingguan
 
+## Slides
+- Rintis Karir Impian (overview & case studies): [slides/RintisKarirImpian.md](slides/RintisKarirImpian.md)
+- Problem Solving Framework: [slides/Problem-Solving-Framework.md](slides/Problem-Solving-Framework.md)
+
 ## Referensi
 - LinkedIn learning / Coursera / YouTube channel data analytics
 - komunitas data science lokal
