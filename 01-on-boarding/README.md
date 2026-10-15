@@ -1,7 +1,7 @@
-# On Boarding
+# On Boarding: Sesi teori yang menyebalkan
 
 ## Tujuan
-Memahami proses masuk ke dunia data analysis, menyiapkan mindset belajar, serta mengetahui tahapan yang dibutuhkan untuk membangun fondasi karier di bidang data.
+Memahami proses masuk ke dunia data analysis, menyiapkan mindset belajar, serta mengetahui tahapan yang dibutuhkan untuk membangun fondasi yang kokoh dan karier di bidang data.
 
 ## Materi Yang Dipelajari
 - gambaran umum dunia data analyst
@@ -11,13 +11,14 @@ Memahami proses masuk ke dunia data analysis, menyiapkan mindset belajar, serta 
 - ekspektasi dan tantangan dalam industri data
 
 ## Deliverables
-- catatan personal roadmap belajar
+- buatlah catatan dan notepad personal roadmap belajar
 - daftar tools yang perlu dipelajari
 - target belajar mingguan
+- pelajari dulu,sudah paham,baru tes hand on pratik.!
 
-## Slides
-- Rintis Karir Impian (overview & case studies)
-- Problem Solving Framework: [slides/Problem-Solving-Framework.md](slides/Problem-Solving-Framework.md)
+## Notes Penting:
+- Temuan Utama (overview & outline show)
+- Anda diwajibkan membaca Roadmaps belajar disini: https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/01-on-boarding/README.md
 
 ## Referensi
 - LinkedIn learning / Coursera / YouTube channel data analytics
