@@ -7,18 +7,6 @@ class: lead
 
 # Introduction to Python
 
-Wijaya Putra — Data Analyst Officer, Freeport Indonesia
-
-#RintisKarirImpian
-
----
-
-## Perkenalan
-
-- 2023: Data Analyst Officer @ PT Freeport Indonesia
-- 2022: Data Analyst @ Sociolla
-- 2021: Business Analyst @ PT Subur Nusantara Maju
-
 ---
 
 ## Tujuan Pembelajaran
