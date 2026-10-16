@@ -22,7 +22,7 @@
 </p>
 
 # Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier
-
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -40,7 +40,7 @@
 <p align="center">
   <strong>“Data is a tree of life that keeps taking root—the foundation for the technology ecosystem of the future.”
 </p>
----
+
 
 
 
