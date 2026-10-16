@@ -1,4 +1,4 @@
-# 🤝 Panduan Kontribusi (Access-Controlled)
+# Panduan Kontribusi
 
 Terima kasih atas minat Anda untuk berkontribusi pada repositori **`PROJECT-DATA-ANALYST`** — *Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier*.
 
@@ -6,7 +6,7 @@ Terima kasih atas minat Anda untuk berkontribusi pada repositori **`PROJECT-DATA
 
 ---
 
-## 🔐 Kebijakan Akses Kontribusi
+## Kebijakan Akses Kontribusi
 
 ### Siapa yang Boleh Berkontribusi?
 
@@ -20,13 +20,13 @@ Hanya pihak berikut yang **diizinkan** mengirim kontribusi:
 | ✅ **Tim bootcamp internal** | Memiliki perjanjian kerja sama (MoU/NDA) dengan pemilik |
 | ❌ **Publik umum** | **Tidak diizinkan** tanpa izin tertulis |
 
-### 🚫 Kontribusi Tanpa Izin
+### Kontribusi Tanpa Izin
 
-Segala bentuk kontribusi tanpa izin tertulis — termasuk **pull request, issue, fork publik, atau duplikasi konten** — **tidak akan diproses** dan dapat dikenai tindakan hukum sesuai ketentuan yang berlaku.
+Segala bentuk kontribusi tanpa izin tertulis termasuk **pull request, issue, fork publik, atau duplikasi konten** **tidak akan diproses** dan dapat dikenai tindakan hukum sesuai ketentuan yang berlaku.
 
 ---
 
-## 📝 Prosedur Permintaan Akses Kontribusi
+## Prosedur Permintaan Akses Kontribusi
 
 Jika Anda ingin berkontribusi, ikuti alur berikut:
 
@@ -44,8 +44,8 @@ Kirim email/permintaan resmi ke pemilik repositori dengan informasi berikut:
 | **Perjanjian** | Kesediaan menandatangani NDA/Contributor Agreement |
 
 **Kontak pengajuan:**
-- 💼 LinkedIn: [https://www.linkedin.com/in/harisariefkamis](https://www.linkedin.com/in/harisariefkamis)
-- 📧 Subjek email: `[REQUEST ACCESS] PROJECT-DATA-ANALYST`
+- LinkedIn: [https://www.linkedin.com/in/harisariefkamis](https://www.linkedin.com/in/harisariefkamis)
+- Subjek email: `[REQUEST ACCESS] PROJECT-DATA-ANALYST`
 
 ### Langkah 2 — Review & Persetujuan
 
@@ -70,7 +70,7 @@ Semua PR dari kontributor berizin tetap melalui **review akhir oleh pemilik**. P
 
 ---
 
-## 📋 Pedoman Umum (Untuk Kontributor Berizin)
+## Pedoman Umum (Untuk Kontributor Berizin)
 
 - **Ikuti urutan belajar** — gunakan folder modul sesuai nomor urut (`01-`, `02-`, dst.).
 - **Setiap modul wajib memiliki `README.md`** yang menjelaskan tujuan, materi, dan deliverables.
@@ -80,7 +80,7 @@ Semua PR dari kontributor berizin tetap melalui **review akhir oleh pemilik**. P
 
 ---
 
-## 📂 Struktur Folder Standar
+## Struktur Folder Standar
 
 ```text
 module-name/
@@ -95,9 +95,9 @@ module-name/
 
 ---
 
-## 🏷️ Konvensi Penamaan
+## Konvensi Penamaan
 
-### Nama Modul (kebab-case dengan angka dua digit)
+### Nama Modul (code-case dengan angka dua digit)
 
 ```text
 01-onboarding
@@ -130,7 +130,7 @@ module-name/
 
 ---
 
-## 💬 Aturan Commit (Conventional Commits)
+## Aturan Commit (Conventional Commits)
 
 Format: `<type>(<scope>): <deskripsi>`
 
@@ -150,7 +150,7 @@ docs(07-sql-basic-1): add module README
 
 ---
 
-## 🔀 Pull Request (Khusus Kontributor Berizin)
+## Pull Request (Khusus Kontributor Berizin)
 
 Judul PR **wajib** menyertakan tag `[AUTHORIZED]`:
 
@@ -170,7 +170,7 @@ Judul PR **wajib** menyertakan tag `[AUTHORIZED]`:
 
 ---
 
-## 🧪 Standar Kualitas Data
+## Standar Kualitas Data
 
 ### Dataset
 - ✅ Sumber jelas + URL/sitasi di README
@@ -202,7 +202,7 @@ Pelanggaran terhadap larangan ini dapat dikenai **tindakan hukum** sesuai ketent
 
 ---
 
-## ⚖️ Konsekuensi Pelanggaran
+## Konsekuensi Pelanggaran
 
 Pelanggaran terhadap panduan ini dapat mengakibatkan:
 
@@ -213,23 +213,23 @@ Pelanggaran terhadap panduan ini dapat mengakibatkan:
 
 ---
 
-## 📬 Kontak & Permohonan Akses
+## Kontak & Permohonan Akses
 
 Untuk mengajukan permohonan akses kontribusi atau kolaborasi:
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/harisariefkamis](https://www.linkedin.com/in/harisariefkamis)
-- 🌐 **Portofolio:** [https://bit.ly/WebsitePortofolioDataAnalyst](https://bit.ly/WebsitePortofolioDataAnalyst)
-- 🐙 **GitHub:** [https://github.com/harrisariefkamis](https://github.com/harrisariefkamis)
+- **LinkedIn:** [https://www.linkedin.com/in/harisariefkamis](https://www.linkedin.com/in/harisariefkamis)
+- **Portofolio:** [https://bit.ly/WebsitePortofolioDataAnalyst](https://bit.ly/WebsitePortofolioDataAnalyst)
+- **GitHub:** [https://github.com/harrisariefkamis](https://github.com/harrisariefkamis)
 
-> 📩 **Subjek pengajuan:** `[REQUEST ACCESS] PROJECT-DATA-ANALYST`
+> **Subjek pengajuan:** `[REQUEST ACCESS] PROJECT-DATA-ANALYST`
 
 ---
 
-## 🙏 Terima Kasih
+## Terima Kasih
 
 Terima kasih atas pengertian dan kerja samanya. Kebijakan ini dibuat untuk **melindungi karya, menjaga kualitas, dan memastikan kolaborasi yang sehat**.
 
-> 🌳 *"Data adalah fondasi hidup yang terus mengakar — dasar struktural bagi ekosistem teknologi masa depan."*
+>  *"Data adalah fondasi hidup yang terus mengakar — dasar struktural bagi ekosistem teknologi masa depan."*
 
 <p align="center">
   <sub>© 2026 Haris Arief Kamis. All rights reserved.</sub>
