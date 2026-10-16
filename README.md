@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <strong>Kumpulan project Data Analyst — dari data cleaning hingga machine learning.</strong>
+  <strong>Kumpulan project Data Analyst — Saya terbiasa bekerja dengan data "Data is new oil" 
+saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda & anda dan tim bisa membuat keputusan berbasis data:Fokus pada statistik dasar, SQL untuk analisis bisnis, Python (NumPy & Pandas), pembersihan data, visualisasi, dan persiapan wawancara teknis.sehingga keputusan dan kebijakan mengelola suatu project berdasarkan data.
+Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier</strong>
 </p>
 
 ---
@@ -292,7 +294,7 @@ Konten dalam repositori ini dipublikasikan untuk tujuan pembelajaran dan portofo
 
 Pelanggaran terhadap ketentuan ini dapat dikenai tindakan perdata dan/atau pidana menurut peraturan perundang‑undangan yang berlaku di Indonesia, termasuk tetapi tidak terbatas pada Undang‑Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang‑Undang Nomor 19 Tahun 2016 (UU ITE) dan ketentuan hak cipta di bawah Undang‑Undang Hak Cipta. Pemilik hak berhak menuntut penghapusan/penarikan konten yang melanggar dari platform pihak ketiga dan/atau menempuh upaya hukum sesuai hukum yang berlaku.
 
-## CONTACT SAYA:
+## Contact Saya:
 ```
 Haris Arief Kamis
 Data Enthusiast / Data Analyst
@@ -316,15 +318,13 @@ Media Sosial:
 
 ---
 
-Deskripsi publik:
-> saya terbiasa bekerja dengan data "Data is new oil" 
-> saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda & anda dan tim bisa membuat keputusan berbasis data:Fokus pada statistik dasar, SQL untuk analisis bisnis, Python (NumPy & Pandas), pembersihan data, visualisasi, dan persiapan wawancara teknis.sehingga keputusan dan kebijakan mengelola suatu project berdasarkan data.
-> Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier
-
 Cara menghubungi saya:
 - Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
 - terima kasih.saya senang bertemu dengan anda.!
-- Project ini dilisensikan di bawah **MIT License** — bebas digunakan untuk pembelajaran dan referensi.
+- Project ini dilisensikan di bawah
+
+**Copyright © {2026} Haris Arief Kamis
+All rights reserved.**
 
   
   <p align="center">
