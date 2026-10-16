@@ -35,12 +35,12 @@
   </a>
 
 
-```
+---
 </p>
 <p align="center">
   <strong>“Data is a tree of life that keeps taking root—the foundation for the technology ecosystem of the future.”
 </p>
-```
+---
 
 
 
