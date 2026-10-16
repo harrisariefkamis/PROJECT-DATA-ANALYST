@@ -1,5 +1,7 @@
 # 📊 PROJECT-DATA-ANALYST
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/06-data-cleaning/notebooks/06_data_cleaning_beginner.ipynb)
+
 ## 🛠️ Tools & Tech Stack
 
 ### 🗄️ Database
