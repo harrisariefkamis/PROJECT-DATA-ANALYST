@@ -21,7 +21,7 @@
   <a href="https://matplotlib.org"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
 </p>
 
-# 📊 PROJECT-DATA-ANALYST
+# PROJECT DATA ANALYST 2026
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
@@ -42,7 +42,7 @@ saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit 
 
 ---
 
-## 👋 Tentang Repositori
+## About Repository
 
 Repositori ini berisi kumpulan **project latihan dan portofolio** sebagai Data Analyst. Setiap project dilengkapi dengan notebook Jupyter yang bisa dijalankan langsung di **Google Colab** tanpa perlu setup lokal.
 
@@ -55,9 +55,9 @@ Repositori ini berisi kumpulan **project latihan dan portofolio** sebagai Data A
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack yang saya pakai:
 
-### ☁️ Google Cloud & Analytics
+### Google Cloud & Analytics
 
 <p>
   <a href="https://colab.research.google.com"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab" height="28"></a>
@@ -66,7 +66,7 @@ Repositori ini berisi kumpulan **project latihan dan portofolio** sebagai Data A
   <a href="https://sheets.google.com"><img src="https://ssl.gstatic.com/docs/common/product/sheets_app_icon1.png" alt="Google Sheets" height="32"></a>
 </p>
 
-### 🐍 Python Data Stack
+### Python Data Stack
 
 <p>
   <a href="https://pandas.pydata.org"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="32"></a>
@@ -76,7 +76,7 @@ Repositori ini berisi kumpulan **project latihan dan portofolio** sebagai Data A
   <a href="https://matplotlib.org"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
   <a href="https://www.mysql.com"><img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL" height="32"></a>
@@ -84,20 +84,20 @@ Repositori ini berisi kumpulan **project latihan dan portofolio** sebagai Data A
   <a href="https://dbeaver.io"><img src="assets/dbeaver.svg" alt="DBeaver" height="32"></a>
 </p>
 
-### 📈 Business Intelligence & Spreadsheet
+### Business Intelligence & Spreadsheet
 
 <p>
   <a href="https://www.microsoft.com/microsoft-365/excel"><img src="assets/excel.svg" alt="Microsoft Excel" height="32"></a>
 </p>
 
-### 💻 IDE & Development
+### IDE & Development
 
 <p>
   <a href="https://code.visualstudio.com"><img src="assets/vscode.svg" alt="VS Code" height="32"></a>
   <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
 </p>
 
-### 🧮 Mathematics & Statistics
+### Mathematics & Statistics
 
 <p>
   <img src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white" alt="Statistics">
@@ -106,7 +106,7 @@ Repositori ini berisi kumpulan **project latihan dan portofolio** sebagai Data A
 
 ---
 
-## 📂 Struktur Repositori
+## Struktur Repositori
 
 ```
 PROJECT-DATA-ANALYST/
@@ -129,27 +129,27 @@ PROJECT-DATA-ANALYST/
 
 ---
 
-## 🚀 Daftar Project
+## Outline Project
 
-### 🧹 Data Cleaning
+### Data Cleaning
 
 | Notebook | Deskripsi | Buka |
 |---|---|---|
 | `06_data_cleaning_beginner.ipynb` | Teknik dasar data cleaning: handling missing values, duplikasi, dan outlier | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/06-data-cleaning/notebooks/06_data_cleaning_beginner.ipynb) |
 
-### 📊 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 | Notebook | Deskripsi | Buka |
 |---|---|---|
 | `03_eda_intro.ipynb` | Eksplorasi dataset & statistik deskriptif | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/03-eda/notebooks/03_eda_intro.ipynb) |
 
-### 🗄️ SQL
+### SQL
 
 | Notebook | Deskripsi | Buka |
 |---|---|---|
 | `04_sql_basic.ipynb` | Query dasar SQL dengan MySQL & PostgreSQL | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/04-sql/notebooks/04_sql_basic.ipynb) |
 
-### 🤖 Machine Learning
+### Machine Learning
 
 | Notebook | Deskripsi | Buka |
 |---|---|---|
@@ -159,13 +159,13 @@ PROJECT-DATA-ANALYST/
 
 ---
 
-## 💻 Cara Menjalankan
+## 💻 Cara Menjalankan IDE
 
-### Opsi 1 — Google Colab (Direkomendasikan)
+### Opsi 1 Google Colab (Direkomendasikan)
 
 Klik badge **Open in Colab** pada tabel project di atas. Notebook akan terbuka langsung di browser tanpa perlu instalasi.
 
-### Opsi 2 — Lokal (VS Code / Jupyter)
+### Opsi 2 Lokal (VS Code / Jupyter)
 
 ```bash
 # Clone repositori
