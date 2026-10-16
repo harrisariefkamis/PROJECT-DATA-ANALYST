@@ -2,20 +2,73 @@ MIT License
 
 Copyright (c) 2026 harryyss.arf
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+LISENSI TERTUTUP (PROPRIETARY / ALL RIGHTS RESERVED)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Dokumen ini merupakan perjanjian lisensi tertutup ("Lisensi") untuk seluruh konten dalam repositori "PROJECT-DATA-ANALYST" ("Karya"), yang meliputi namun tidak terbatas pada:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Kode sumber (source code) dalam bahasa apa pun
+Notebook Jupyter (.ipynb)
+Dataset, skema, dan struktur data
+Dokumentasi, README, dan materi pembelajaran
+Slide presentasi, diagram, dan visualisasi
+Studi kasus, latihan, dan solusi
+Seluruh materi turunan (derivative works)
+HAK KEPEMILIKAN
+Karya ini adalah milik eksklusif Haris Arief Kamis ("Pemilik Hak"). Seluruh hak kekayaan intelektual, termasuk hak cipta, tetap berada pada Pemilik Hak dan dilindungi oleh:
+
+Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta
+Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016
+Peraturan perundang-undangan lain yang berlaku di Republik Indonesia dan/atau yurisdiksi internasional yang relevan.
+LARANGAN PENGGUNAAN
+Tanpa izin tertulis dari Pemilik Hak, Anda dilarang:
+
+a. Menyalin, memperbanyak, atau menggandakan Karya, baik sebagian maupun seluruhnya; b. Mendistribusikan, menyebarluaskan, atau mempublikasikan ulang Karya dalam bentuk apa pun; c. Menggunakan Karya untuk tujuan komersial, termasuk namun tidak terbatas pada pelatihan berbayar, kursus, bootcamp, konsultasi, atau produk turunan; d. Memodifikasi, mengubah, atau menciptakan karya turunan (derivative works) dari Karya; e. Menghapus, mengubah, atau menyembunyikan atribusi hak cipta, nama Pemilik Hak, atau notifikasi lisensi; f. Mengunggah ulang Karya ke platform lain (GitHub, GitLab, Kaggle, Medium, YouTube, dll.) tanpa izin; g. Menggunakan Karya untuk melatih model kecerdasan buatan (AI/ML) tanpa perjanjian lisensi terpisah; h. Mengklaim Karya sebagai milik Anda, baik sebagian maupun seluruhnya.
+
+IZIN TERBATAS UNTUK AKSES
+Pemilik Hak memberikan izin TERBATAS dan NON-EKSKLUSIF kepada individu untuk:
+
+a. Melihat (view) dan mempelajari Karya untuk keperluan pembelajaran pribadi; b. Mengajukan permohonan akses kontribusi secara tertulis; c. Memberikan umpan balik (feedback) yang bersifat konstruktif.
+
+Izin ini TIDAK mencakup hak untuk:
+
+Menyalin, mendistribusikan, atau mempublikasikan ulang;
+Menggunakan untuk tujuan komersial;
+Mengubah atau menciptakan karya turunan.
+KONTRIBUSI
+Kontribusi terhadap Karya hanya dapat dilakukan oleh pihak yang telah memperoleh izin tertulis dari Pemilik Hak. Setiap kontribusi yang masuk tanpa izin tertulis dianggap sebagai:
+
+a. Pelanggaran terhadap Lisensi ini; b. Pelanggaran hak cipta sesuai UU Hak Cipta; c. Dapat dikenai tindakan hukum sesuai ketentuan yang berlaku.
+
+Seluruh kontribusi yang sah akan menjadi milik eksklusif Pemilik Hak, kecuali diperjanjikan lain secara tertulis. Prosedur pengajuan izin kontribusi diatur dalam file CONTRIBUTING.md.
+
+PENEGAKAN HAK
+Pemilik Hak berhak, tanpa pemberitahuan sebelumnya, untuk:
+
+a. Menuntut penghapusan/penarikan konten yang melanggar dari platform pihak ketiga; b. Mengajukan takedown notice (DMCA) kepada penyedia layanan; c. Menempuh upaya hukum perdata, termasuk gugatan ganti rugi atas kerugian materiil dan/atau imateriil; d. Menempuh upaya hukum pidana sesuai UU Hak Cipta dan UU ITE; e. Melaporkan pelanggaran kepada pihak berwenang.
+
+SANKSI HUKUM
+Pelanggaran terhadap Lisensi ini dapat dikenai sanksi berdasarkan:
+
+Pasal 113 Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta;
+Pasal 30–35 Undang-Undang Nomor 11 Tahun 2008 sebagaimana diubah dengan Undang-Undang Nomor 19 Tahun 2016 (UU ITE);
+Ketentuan hukum perdata mengenai perbuatan melawan hukum (Pasal 1365 KUHPerdata) untuk ganti rugi;
+Ketentuan internasional yang relevan (mis. Berne Convention, TRIPS Agreement).
+PERMINTAAN LISENSI & KOLABORASI
+Untuk permintaan lisensi, kolaborasi, atau penggunaan komersial:
+
+Kontak: Haris Arief Kamis LinkedIn: https://www.linkedin.com/in/harisariefkamis GitHub : https://github.com/harrisariefkamis Subjek : [LICENSE REQUEST] PROJECT-DATA-ANALYST
+
+Setiap permintaan akan ditinjau secara individual. Pemilik Hak berhak menolak permintaan tanpa perlu memberikan alasan.
+
+PENGECUALIAN
+Lisensi ini tidak berlaku untuk:
+
+Dataset pihak ketiga yang memiliki lisensi sendiri (lihat keterangan di setiap modul/dataset);
+Library atau kode pihak ketiga yang digunakan sebagai dependensi (diatur oleh lisensi masing-masing);
+Kutipan singkat untuk keperluan akademik dengan atribusi yang benar (fair use sesuai Pasal 44 UU Hak Cipta).
+KESELURUHAN PERJANJIAN
+Lisensi ini merupakan keseluruhan perjanjian antara Anda dan Pemilik Hak terkait Karya. Jika ada ketentuan yang dinyatakan tidak sah, ketentuan lain tetap berlaku.
+
+Dengan mengakses, melihat, atau menggunakan Karya ini, Anda dianggap telah membaca, memahami, dan menyetujui seluruh ketentuan dalam Lisensi ini.
+
+All Rights Reserved. Haris Arief Kamis 2026
