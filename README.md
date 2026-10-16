@@ -1,5 +1,3 @@
-# PROJECT-DATA-ANALYST
-
 # 📊 PROJECT-DATA-ANALYST
 
 <p align="center">
@@ -164,45 +162,6 @@ jupyter notebook
 
 ---
 
-## 🤝 Kontribusi
-
-Kontribusi, saran, dan feedback sangat diterima. Silakan:
-
-1. **Fork** repositori ini
-2. Buat branch baru (`git checkout -b feature/FiturBaru`)
-3. Commit perubahan (`git commit -m 'Menambah fitur X'`)
-4. Push ke branch (`git push origin feature/FiturBaru`)
-5. Buka **Pull Request**
-
----
-
-## 📬 Kontak
-
-<p>
-  <a href="https://www.linkedin.com/in/harisariefkamis">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/harrisariefkamis">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://bit.ly/WebsitePortofolioDataAnalyst">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
----
-
-## 📜 Lisensi
-
-Project ini dilisensikan di bawah **MIT License** — bebas digunakan untuk pembelajaran dan referensi.
-
-<p align="center">
-  <sub>⭐ Jika repositori ini bermanfaat, jangan lupa beri bintang!</sub>
-</p>
-
-
-Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier.
-
 ## Tujuan Pembelajaran
 Repositori ini dirancang untuk membantu peserta:
 - memahami dasar analisis data dan metrik bisnis;
@@ -340,23 +299,34 @@ Data Enthusiast / Data Analyst
 Bogor Timur, Kota Bogor, 16144
 ```
 Media Sosial:
-- LinkedIn: https://www.linkedin.com/in/harisariefkamis
-- GitHub: https://github.com/harrisariefkamis
-- Website / Portofolio: https://bit.ly/WebsitePortofolioDataAnalyst
+
+## 📬 Sosial Hub:
+
+<p>
+  <a href="https://www.linkedin.com/in/harisariefkamis">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/harrisariefkamis">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://bit.ly/WebsitePortofolioDataAnalyst">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
 
 Deskripsi publik:
 > saya terbiasa bekerja dengan data "Data is new oil" 
 > saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda & anda dan tim bisa membuat keputusan berbasis data:Fokus pada statistik dasar, SQL untuk analisis bisnis, Python (NumPy & Pandas), pembersihan data, visualisasi, dan persiapan wawancara teknis.sehingga keputusan dan kebijakan mengelola suatu project berdasarkan data.
-
-Lihat portofolio: https://bit.ly/WebsitePortofolioDataAnalyst
+> Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier
 
 Cara menghubungi saya:
 - Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
 - terima kasih.saya senang bertemu dengan anda.!
+- Project ini dilisensikan di bawah **MIT License** — bebas digunakan untuk pembelajaran dan referensi.
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
+  
+  <p align="center">
+  <sub>⭐ Jika repositori ini bermanfaat, jangan lupa beri bintang!</sub>
+</p>
