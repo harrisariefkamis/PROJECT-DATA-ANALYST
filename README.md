@@ -22,7 +22,6 @@
 </p>
 
 # Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier
----
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -33,7 +32,7 @@
   <a href="https://bit.ly/WebsitePortofolioDataAnalyst">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-
+---
 
 ---
 </p>
