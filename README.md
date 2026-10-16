@@ -1,14 +1,205 @@
 # PROJECT-DATA-ANALYST
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/06-data-cleaning/notebooks/06_data_cleaning_beginner.ipynb)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+# 📊 PROJECT-DATA-ANALYST
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harisariefkamis">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/harrisariefkamis">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://bit.ly/WebsitePortofolioDataAnalyst">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Kumpulan project Data Analyst — dari data cleaning hingga machine learning.</strong>
+</p>
+
+---
+
+## 👋 Tentang Repositori
+
+Repositori ini berisi kumpulan **project latihan dan portofolio** sebagai Data Analyst. Setiap project dilengkapi dengan notebook Jupyter yang bisa dijalankan langsung di **Google Colab** tanpa perlu setup lokal.
+
+**Fokus utama:**
+- 🧹 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- 🗄️ SQL Query (MySQL & PostgreSQL)
+- 📊 Visualisasi Data (Looker Studio, Matplotlib, Seaborn)
+- 🤖 Machine Learning Dasar (scikit-learn)
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Google Cloud & Analytics
+
+<p>
+  <a href="https://colab.research.google.com"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab" height="28"></a>
+  <a href="https://cloud.google.com/bigquery"><img src="https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg" alt="BigQuery" height="32"></a>
+  <a href="https://lookerstudio.google.com"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Looker Studio" height="32"></a>
+  <a href="https://sheets.google.com"><img src="https://ssl.gstatic.com/docs/common/product/sheets_app_icon1.png" alt="Google Sheets" height="32"></a>
+</p>
+
+### 🐍 Python Data Stack
+
+<p>
+  <a href="https://pandas.pydata.org"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="32"></a>
+  <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" height="32"></a>
+  <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="32"></a>
+  <a href="https://scikit-learn.org"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" height="32"></a>
+  <a href="https://matplotlib.org"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <a href="https://www.mysql.com"><img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL" height="32"></a>
+  <a href="https://www.postgresql.org"><img src="assets/postgresql.svg" alt="PostgreSQL" height="32"></a>
+  <a href="https://dbeaver.io"><img src="assets/dbeaver.svg" alt="DBeaver" height="32"></a>
+</p>
+
+### 📈 Business Intelligence & Spreadsheet
+
+<p>
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="assets/excel.svg" alt="Microsoft Excel" height="32"></a>
+</p>
+
+### 💻 IDE & Development
+
+<p>
+  <a href="https://code.visualstudio.com"><img src="assets/vscode.svg" alt="VS Code" height="32"></a>
+  <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+</p>
+
+### 🧮 Mathematics & Statistics
+
+<p>
+  <img src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white" alt="Statistics">
+  <img src="https://img.shields.io/badge/Linear_Algebra-0078D4?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Linear Algebra">
+</p>
+
+---
+
+## 📂 Struktur Repositori
+
+```
+PROJECT-DATA-ANALYST/
+├── 01-intro/
+├── 02-data-wrangling/
+├── 03-eda/
+├── 04-sql/
+├── 05-visualization/
+├── 06-data-cleaning/
+│   └── notebooks/
+│       └── 06_data_cleaning_beginner.ipynb
+├── 07-machine-learning/
+└── assets/
+    ├── matplotlib.svg
+    ├── postgresql.svg
+    ├── dbeaver.svg
+    ├── excel.svg
+    └── vscode.svg
+```
+
+---
+
+## 🚀 Daftar Project
+
+### 🧹 06 — Data Cleaning
+
+| Notebook | Deskripsi | Buka |
+|---|---|---|
+| `06_data_cleaning_beginner.ipynb` | Teknik dasar data cleaning: handling missing values, duplikasi, dan outlier | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/06-data-cleaning/notebooks/06_data_cleaning_beginner.ipynb) |
+
+### 📊 03 — Exploratory Data Analysis (EDA)
+
+| Notebook | Deskripsi | Buka |
+|---|---|---|
+| `03_eda_intro.ipynb` | Eksplorasi dataset & statistik deskriptif | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/03-eda/notebooks/03_eda_intro.ipynb) |
+
+### 🗄️ 04 — SQL
+
+| Notebook | Deskripsi | Buka |
+|---|---|---|
+| `04_sql_basic.ipynb` | Query dasar SQL dengan MySQL & PostgreSQL | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/04-sql/notebooks/04_sql_basic.ipynb) |
+
+### 🤖 07 — Machine Learning
+
+| Notebook | Deskripsi | Buka |
+|---|---|---|
+| `07_ml_intro.ipynb` | Pengenalan machine learning dengan scikit-learn | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/07-machine-learning/notebooks/07_ml_intro.ipynb) |
+
+> 💡 **Tips:** Ganti `USERNAME`, `REPO`, dan `PATH/KE/NOTEBOOK.ipynb` sesuai struktur repositori Anda.
+
+---
+
+## 💻 Cara Menjalankan
+
+### Opsi 1 — Google Colab (Direkomendasikan)
+
+Klik badge **Open in Colab** pada tabel project di atas. Notebook akan terbuka langsung di browser tanpa perlu instalasi.
+
+### Opsi 2 — Lokal (VS Code / Jupyter)
+
+```bash
+# Clone repositori
+git clone https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST.git
+cd PROJECT-DATA-ANALYST
+
+# Buat virtual environment
+python -m venv venv
+source venv/bin/activate    # Linux/macOS
+# venv\Scripts\activate     # Windows
+
+# Install dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
+# Jalankan Jupyter
+jupyter notebook
+```
+
+---
+
+## 🤝 Kontribusi
+
+Kontribusi, saran, dan feedback sangat diterima. Silakan:
+
+1. **Fork** repositori ini
+2. Buat branch baru (`git checkout -b feature/FiturBaru`)
+3. Commit perubahan (`git commit -m 'Menambah fitur X'`)
+4. Push ke branch (`git push origin feature/FiturBaru`)
+5. Buka **Pull Request**
+
+---
+
+## 📬 Kontak
+
+<p>
+  <a href="https://www.linkedin.com/in/harisariefkamis">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/harrisariefkamis">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://bit.ly/WebsitePortofolioDataAnalyst">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## 📜 Lisensi
+
+Project ini dilisensikan di bawah **MIT License** — bebas digunakan untuk pembelajaran dan referensi.
+
+<p align="center">
+  <sub>⭐ Jika repositori ini bermanfaat, jangan lupa beri bintang!</sub>
+</p>
+
 
 Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier.
 
