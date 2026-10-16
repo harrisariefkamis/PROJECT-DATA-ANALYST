@@ -33,11 +33,15 @@
   <a href="https://bit.ly/WebsitePortofolioDataAnalyst">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
+
+
+
+</p>
+<p align="center">
+  <strong>“Data is a tree of life that keeps taking root—the foundation for the technology ecosystem of the future.”
 </p>
 
-<p align="center">
-  <strong>"Data is not merely raw material; it is a living, ever-growing structural foundation that supports the entire technological ecosystem of the future. Without a robust data foundation, a technological ecosystem cannot stand firm"
-</p>
+
 
 
 ## About Repository
