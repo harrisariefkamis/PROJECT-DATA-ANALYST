@@ -36,8 +36,12 @@
 
 </p>
 <p align="center">
-  <strong>“Data is a tree of life that keeps taking root—the foundation for the technology ecosystem of the future.” __harryyss - Data Enthusiast__
+  <strong>“Data is a tree of life that keeps taking root—the foundation for the technology ecosystem of the future.” 
+  </p>
+    <p align="center">
+      <strong>harryyss Data Enthusiast
 </p>
+<p>
 
 
 ## About Repository
