@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <strong>"Data is the new oil." Namun minyak mentah tidak bernilai tanpa "curiosity" untuk mengeksplorasi, "critical thinking" untuk memvalidasi, dan "storytelling" untuk mengomunikasikan insight-nya.
+  <strong>"Data is not merely raw material; it is a living, ever-growing structural foundation that supports the entire technological ecosystem of the future. Without a robust data foundation, a technological ecosystem cannot stand firm"
 </p>
 
 
