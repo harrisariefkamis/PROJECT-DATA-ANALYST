@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <strong>Saya terbiasa bekerja dengan data ***Data is new oil***
+  <strong>Saya terbiasa bekerja dengan data "Data is new oil"
 saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda & anda dan tim bisa membuat keputusan berbasis data:Fokus pada statistik dasar, SQL untuk analisis bisnis, Python (NumPy & Pandas), pembersihan data, visualisasi, dan persiapan wawancara teknis.sehingga keputusan dan kebijakan mengelola suatu project berdasarkan data.Project repositori pembelajaran Data Analyst. Repo ini berisi roadmap belajar yang terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier</strong>
 </p>
 
