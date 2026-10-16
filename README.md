@@ -196,8 +196,6 @@ Repositori ini dirancang untuk membantu peserta:
 
 ## Temuan Utama (Guideline & Overview)
 
-Berikut index singkat modul yang tersedia di repo ini:
-
 - 01-on-boarding — [README](./01-on-boarding/README.md)
 - 02-career-and-hr — [README](./02-career-and-hr/README.md)
 - 03-intro-data-analysis — [README](./03-intro-data-analysis/README.md)
@@ -264,7 +262,7 @@ PROJECT-DATA-ANALYST/
     └── ISSUE_TEMPLATE.md
 ```
 
-## Roadmap Modul
+## Roadmaps Modul
 
 1. On Boarding
 2. Secure Your First Data Analyst Job
@@ -284,14 +282,14 @@ PROJECT-DATA-ANALYST/
 16. Data Visualisation 2: Google Data Studio
 17. Career Class: HR CV Review + Interview
 
-## Urutan Belajar yang Disarankan
+## Urutan Belajar yang harus diselesaikan
 - Pemula: mulai dari modul 1 sampai 6
 - Setelah itu: SQL dari modul 7 sampai 11
 - Lanjut: Python dari modul 12 sampai 14
 - Setelah itu: visualisasi dan dashboard dari modul 15 sampai 16
 - Terakhir: modul 17 untuk persiapan karier
 
-## Catatan
+## Notes (catatan & summary
 Setiap folder modul dapat berisi:
 - README.md: deskripsi tujuan dan materi
 - datasets/: file contoh data
@@ -312,15 +310,15 @@ Konten dalam repositori ini dipublikasikan untuk tujuan pembelajaran dan portofo
 
 Pelanggaran terhadap ketentuan ini dapat dikenai tindakan perdata dan/atau pidana menurut peraturan perundang‑undangan yang berlaku di Indonesia, termasuk tetapi tidak terbatas pada Undang‑Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang‑Undang Nomor 19 Tahun 2016 (UU ITE) dan ketentuan hak cipta di bawah Undang‑Undang Hak Cipta. Pemilik hak berhak menuntut penghapusan/penarikan konten yang melanggar dari platform pihak ketiga dan/atau menempuh upaya hukum sesuai hukum yang berlaku.
 
-## Contact Saya:
+#### Contact Saya:
 ```
 Haris Arief Kamis
 Data Enthusiast / Data Analyst
 Bogor Timur, Kota Bogor, 16144
 ```
-## Hubungi Saya:
+#### Hubungi Saya:
 
-Untuk kerja Kolaborasi & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
+Untuk kerja Kolaborasi & Konsultasi, Klik tautan media sosial dibawah ini.!
 
 <p>
   <a href="https://www.linkedin.com/in/harisariefkamis">
@@ -340,5 +338,5 @@ Untuk kerja Kolaborasi & konsultasi, gunakan LinkedIn atau GitHub Issues diprofi
 </p>
   <p align="center">
   <sub>Copyright © {2026} Haris Arief Kamis
-  >sub>All rights reserved.</sub>
+  <sub>All rights reserved.</sub>
 </p>
