@@ -30,7 +30,7 @@ Segala bentuk kontribusi tanpa izin tertulis termasuk **pull request, issue, for
 
 Jika Anda ingin berkontribusi, ikuti alur berikut:
 
-### Langkah 1 — Ajukan Permohonan Akses
+### Langkah 1: Ajukan Permohonan Akses
 
 Kirim email/permintaan resmi ke pemilik repositori dengan informasi berikut:
 
@@ -47,15 +47,15 @@ Kirim email/permintaan resmi ke pemilik repositori dengan informasi berikut:
 - LinkedIn: [https://www.linkedin.com/in/harisariefkamis](https://www.linkedin.com/in/harisariefkamis)
 - Subjek email: `[REQUEST ACCESS] PROJECT-DATA-ANALYST`
 
-### Langkah 2 — Review & Persetujuan
+### Langkah 2: Review & Persetujuan
 
-Pemilik repositori akan meninjau permohonan Anda dalam **7–14 hari kerja**. Persetujuan diberikan secara **tertulis** melalui:
+Pemilik repositori akan meninjau permohonan Anda dalam **1–3 hari kerja**. Persetujuan diberikan secara **tertulis** melalui:
 
 - ✉️ Surat Izin Kontribusi (Access Grant Letter), **atau**
 - 📃 Contributor Agreement yang ditandatangani kedua pihak, **atau**
 - 🎫 Undangan resmi sebagai GitHub *collaborator*
 
-### Langkah 3 — Pelaksanaan Kontribusi
+### Langkah 3: Pelaksanaan Kontribusi
 
 Setelah mendapatkan izin tertulis:
 
@@ -64,7 +64,7 @@ Setelah mendapatkan izin tertulis:
 3. Ikuti seluruh pedoman di bawah ini.
 4. Ajukan **Pull Request** dan tandai sebagai `[AUTHORIZED]` di judulnya.
 
-### Langkah 4 — Review oleh Pemilik
+### Langkah 4: Review oleh Pemilik
 
 Semua PR dari kontributor berizin tetap melalui **review akhir oleh pemilik**. Pemilik berhak **menolak, merevisi, atau membatalkan** kontribusi tanpa perlu memberikan alasan.
 
@@ -174,7 +174,7 @@ Judul PR **wajib** menyertakan tag `[AUTHORIZED]`:
 
 ### Dataset
 - ✅ Sumber jelas + URL/sitasi di README
-- ✅ Lisensi terbuka (CC0, MIT, Apache) — **dilarang** dataset proprietary
+- ✅ Lisensi terbuka (CC0, MIT, Apache) **dilarang** dataset proprietary
 - ✅ Ukuran wajar (< 50 MB per file)
 - ✅ Tidak mengandung PII
 - ❌ Dilarang mengunggah data hasil scraping tanpa izin
