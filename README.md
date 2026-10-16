@@ -336,7 +336,12 @@ Untuk kerja Kolaborasi & Konsultasi, Klik tautan media sosial dibawah ini.!
   <p align="center">
   <sub>⭐ Thanks For Everthing,Jika repositori ini bermanfaat, jangan lupa beri bintang!⭐</sub>
 </p>
+
+
+
+
   <p align="center">
   <sub>Copyright © {2026} Haris Arief Kamis
+  <p align="center">
   <sub>All rights reserved.</sub>
 </p>
