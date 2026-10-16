@@ -318,8 +318,6 @@ Haris Arief Kamis
 Data Enthusiast / Data Analyst
 Bogor Timur, Kota Bogor, 16144
 ```
-Media Sosial:
-
 ## Hubungi Saya:
 ```
 Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
@@ -335,14 +333,14 @@ Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/port
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
 ---
 
-
-**Copyright © {2026} Haris Arief Kamis
-All rights reserved.*
-
-  
+```
+  <p align="center">
+  <sub>Copyright © {2026} Haris Arief Kamis
+  >sub>All rights reserved.</sub>
+</p>
   <p align="center">
   <sub>⭐ Thanks For Everthing,Jika repositori ini bermanfaat, jangan lupa beri bintang!⭐</sub>
 </p>
+```
