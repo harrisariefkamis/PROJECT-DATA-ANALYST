@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <strong>"Data is the new oil."* — Namun minyak mentah tidak bernilai tanpa **curiosity** untuk mengeksplorasi, **critical thinking** untuk memvalidasi, dan **storytelling** untuk mengomunikasikan insight-nya.
+  <strong>"Data is the new oil." Namun minyak mentah tidak bernilai tanpa "curiosity" untuk mengeksplorasi, "critical thinking" untuk memvalidasi, dan "storytelling" untuk mengomunikasikan insight-nya.
 </p>
 
 
@@ -44,37 +44,37 @@
 
 Repositori ini adalah **project pembelajaran Data Analyst** yang berisi roadmap belajar terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier.
 
-> *"Data is the new oil."* — Namun minyak mentah tidak bernilai tanpa **curiosity** untuk mengeksplorasi, **critical thinking** untuk memvalidasi, dan **storytelling** untuk mengomunikasikan insight-nya.
+> *"Data is the new oil."* Namun minyak mentah tidak bernilai tanpa **curiosity** untuk mengeksplorasi, **critical thinking** untuk memvalidasi, dan **storytelling** untuk mengomunikasikan insight-nya.
 
-Saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda — di mana **data curiosity** menjadi kompas utama, **analytical thinking** menjadi mesin pemrosesnya, dan **problem solving** menjadi tujuan akhirnya. Setiap temuan divalidasi melalui **data-driven decision making** yang rigoris, dengan **framework** yang terstruktur dan **workflow** yang repetabel.
+Saya mendorong algoritma pembelajaran ini dengan pendekatan method yang sedikit berbeda di mana **data curiosity** menjadi kompas utama, **analytical thinking** menjadi mesin pemrosesnya, dan **problem solving** menjadi tujuan akhirnya. Setiap temuan divalidasi melalui **data-driven decision making** yang rigoris, dengan **framework** yang terstruktur dan **workflow** yang repetabel.
 
-Tujuan besarnya sederhana: membentuk Anda menjadi **problem solver** sejati — bukan sekadar pengguna tools, tetapi analis yang mampu membedah masalah bisnis dari akar, merancang **arsitektur** analisis yang tepat, dan membangun **infrastruktur** data yang scalable untuk pengambilan keputusan jangka panjang.
+Tujuan besarnya sederhana: membentuk Anda menjadi **problem solver** sejati bukan sekadar pengguna tools, tetapi analis yang mampu membedah masalah bisnis dari akar, merancang **arsitektur** analisis yang tepat, dan membangun **infrastruktur** data yang scalable untuk pengambilan keputusan jangka panjang.
 
 ### Fokus Pembelajaran
 
-- Descriptive & Inferential Statistics** — fondasi statistik untuk membaca pola dan menarik kesimpulan
-- SQL for Business Analytics** — dari basic clause hingga **window functions**, **CTE**, dan **query optimization**
-- Python Data Stack** — **NumPy** & **Pandas** untuk **data wrangling**, **feature engineering**, dan **exploratory data analysis (EDA)**
-- Data Cleaning & Preprocessing** — menangani **missing values**, **outliers**, **duplicates**, dan **data normalization**
-- Data Visualization & Storytelling** — membangun **dashboard interaktif** dengan **Looker Studio**, **Matplotlib**, dan **Seaborn** untuk menyampaikan **actionable insights**
-- Exploratory Data Analysis (EDA)** — mengembangkan **data intuition** melalui **hypothesis testing** dan **pattern discovery**
-- Career & Technical Interview Prep** — **case study interview**, **SQL technical interview**, **CV review**, dan **behavioral interview**
+- **Descriptive & Inferential Statistics:** fondasi statistik untuk membaca pola dan menarik kesimpulan
+- **SQL for Business Analytics:** dari basic clause hingga **window functions**, **CTE**, dan **query optimization**
+- **Python Data Stack****NumPy** & **Pandas** untuk **data wrangling**, **feature engineering**, dan **exploratory data analysis (EDA)**
+- **Data Cleaning & Preprocessing:** menangani **missing values**, **outliers**, **duplicates**, dan **data normalization**
+- **Data Visualization & Storytelling:** membangun **dashboard interaktif** dengan **Looker Studio**, **Matplotlib**, dan **Seaborn** untuk menyampaikan **actionable insights**
+- **Exploratory Data Analysis (EDA):** mengembangkan **data intuition** melalui **hypothesis testing** dan **pattern discovery**
+- **Career & Technical Interview Prep**,**case study interview**, **SQL technical interview**, **CV review**, dan **behavioral interview**
 
 ### Framework & Workflow Belajar
 
 Setiap modul dirancang mengikuti **framework** pembelajaran yang konsisten:
 
-1. **Understand the Problem** — membangun **problem framing** & **business acumen**
-2. **Explore with Curiosity** — melatih **data curiosity** dan **analytical thinking**
-3. **Build the Solution** — merancang **arsitektur** analisis & **workflow** yang repetabel
-4. **Validate & Iterate** — menguji temuan dengan **hypothesis testing** dan **evidence**
-5. **Communicate the Insight** — mengasah **data storytelling** dan **actionable insights**
+1. **Understand the Problem** membangun **problem framing** & **business acumen**
+2. **Explore with Curiosity** melatih **data curiosity** dan **analytical thinking**
+3. **Build the Solution** merancang **arsitektur** analisis & **workflow** yang repetabel
+4. **Validate & Iterate** menguji temuan dengan **hypothesis testing** dan **evidence**
+5. **Communicate the Insight** mengasah **data storytelling** dan **actionable insights**
 
-Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** serta merumuskan **data-driven policies** untuk mengelola suatu project — bukan berdasarkan asumsi, melainkan berdasarkan **evidence**, **metrics**, dan **insight** yang terukur. **Curiosity** bukan sekadar sifat, tetapi **core skill** seorang Data Analyst profesional. **Analytical thinking** bukan bakat, melainkan kebiasaan yang dilatih. Dan **problem solving** bukan tujuan akhir — melainkan **mindset** yang terus diasah.
+Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** serta merumuskan **data-driven policies** untuk mengelola suatu project bukan berdasarkan asumsi, melainkan berdasarkan **evidence**, **metrics**, dan **insight** yang terukur. **Curiosity** bukan sekadar sifat, tetapi **core skill** seorang Data Analyst profesional. **Analytical thinking** bukan bakat, melainkan kebiasaan yang dilatih. Dan **problem solving** bukan tujuan akhir melainkan **mindset** yang terus diasah.
 
-> **Filosofi belajar:** *"Ask better questions, get better insights."* — Setiap modul dirancang untuk melatih **analytical curiosity**, **problem framing**, dan **business acumen** — tiga pilar utama untuk menjadi **insight-driven analyst** yang mampu membangun **arsitektur** dan **infrastruktur** analitik yang berdampak.
+> **Filosofi belajar:** *"Ask better questions, get better insights."* Setiap modul dirancang untuk melatih **analytical curiosity**, **problem framing**, dan **business acumen** tiga pilar utama untuk menjadi **insight-driven analyst** yang mampu membangun **arsitektur** dan **infrastruktur** analitik yang berdampak.
 
-## Tech Stack yang saya pakai:
+## Tech Stack:
 
 #### Google Cloud & Analytics
 
