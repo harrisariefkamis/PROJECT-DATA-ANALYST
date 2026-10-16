@@ -14,9 +14,21 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+  <a href="https://colab.research.google.com"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab" height="28"></a>
+  <a href="https://cloud.google.com/bigquery"><img src="https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg" alt="BigQuery" height="32"></a>
+  <a href="https://lookerstudio.google.com"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Looker Studio" height="32"></a>
+  <a href="https://sheets.google.com"><img src="https://ssl.gstatic.com/docs/common/product/sheets_app_icon1.png" alt="Google Sheets" height="32"></a>
+</p>
+<p>
+  <a href="https://pandas.pydata.org"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="32"></a>
+  <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" height="32"></a>
+  <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="32"></a>
+  <a href="https://scikit-learn.org"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" height="32"></a>
+  <a href="https://matplotlib.org"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
+</p>
 
 # 📊 PROJECT-DATA-ANALYST
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
@@ -126,25 +138,25 @@ PROJECT-DATA-ANALYST/
 
 ## 🚀 Daftar Project
 
-### 🧹 06 — Data Cleaning
+### 🧹 Data Cleaning
 
 | Notebook | Deskripsi | Buka |
 |---|---|---|
 | `06_data_cleaning_beginner.ipynb` | Teknik dasar data cleaning: handling missing values, duplikasi, dan outlier | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/06-data-cleaning/notebooks/06_data_cleaning_beginner.ipynb) |
 
-### 📊 03 — Exploratory Data Analysis (EDA)
+### 📊 Exploratory Data Analysis (EDA)
 
 | Notebook | Deskripsi | Buka |
 |---|---|---|
 | `03_eda_intro.ipynb` | Eksplorasi dataset & statistik deskriptif | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/03-eda/notebooks/03_eda_intro.ipynb) |
 
-### 🗄️ 04 — SQL
+### 🗄️ SQL
 
 | Notebook | Deskripsi | Buka |
 |---|---|---|
 | `04_sql_basic.ipynb` | Query dasar SQL dengan MySQL & PostgreSQL | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harrisariefkamis/PROJECT-DATA-ANALYST/blob/main/04-sql/notebooks/04_sql_basic.ipynb) |
 
-### 🤖 07 — Machine Learning
+### 🤖 Machine Learning
 
 | Notebook | Deskripsi | Buka |
 |---|---|---|
