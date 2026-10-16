@@ -21,7 +21,7 @@
   <a href="https://matplotlib.org"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
 </p>
 
-# Data Analyst Bootcamp — Modul Praktik, Studi Kasus & Persiapan Karier
+# Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
