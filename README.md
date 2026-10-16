@@ -22,6 +22,7 @@
 </p>
 
 # Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier
+
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -32,21 +33,19 @@
   <a href="https://bit.ly/WebsitePortofolioDataAnalyst">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
----
+
 
 </p>
 <p align="center">
   <strong>“Data is a tree of life that keeps taking root the foundation for the technology ecosystem of the future.” 
-  </p>
-    <p align="center">
-      <strong></bold>harryyss__Data Enthusiast
 </p>
-<p>
+<p align="center">
+  <strong>harryyss__Data Enthusiast
+</p>
 
 
 
-
----
+        
 ## About Repository
 
 Repositori ini adalah **project pembelajaran Data Analyst** yang berisi roadmap belajar terstruktur untuk membangun kemampuan dasar hingga menengah dalam analisis data, SQL, Python, visualisasi, dan persiapan karier.
