@@ -319,9 +319,9 @@ Data Enthusiast / Data Analyst
 Bogor Timur, Kota Bogor, 16144
 ```
 ## Hubungi Saya:
-```
-Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
-```
+
+Untuk kerja Kolaborasi & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
+
 <p>
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -333,14 +333,12 @@ Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/port
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
----
 
-```
+
+  <p align="center">
+  <sub>⭐ Thanks For Everthing,Jika repositori ini bermanfaat, jangan lupa beri bintang!⭐</sub>
+</p>
   <p align="center">
   <sub>Copyright © {2026} Haris Arief Kamis
   >sub>All rights reserved.</sub>
 </p>
-  <p align="center">
-  <sub>⭐ Thanks For Everthing,Jika repositori ini bermanfaat, jangan lupa beri bintang!⭐</sub>
-</p>
-```
