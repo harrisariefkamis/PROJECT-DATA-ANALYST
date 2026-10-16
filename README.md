@@ -308,10 +308,6 @@ Copyright © {2026} Haris Arief Kamis
 
 All rights reserved.
 
-This repository and its contents (the “Materials”) are protected by copyright and other applicable laws. Except as expressly permitted, you may not copy, modify, publish, distribute, transmit, display, perform, or create derivative works of the Materials for any purpose (including commercial use) without the prior written permission of the copyright owner.
-
-Hak Cipta © {2026} Haris Arief Kamis. Semua hak dilindungi.
-
 Konten dalam repositori ini dipublikasikan untuk tujuan pembelajaran dan portofolio. Materi, kode, dataset, notebook, dan dokumen lain di repositori ini tidak boleh disalin, disebarluaskan, atau digunakan ulang (termasuk untuk tujuan komersial) tanpa izin tertulis dari pemilik hak cipta (Haris Arief Kamis). Untuk permintaan lisensi atau kerja sama, silakan hubungi: https://www.linkedin.com/in/harisariefkamis.
 
 Pelanggaran terhadap ketentuan ini dapat dikenai tindakan perdata dan/atau pidana menurut peraturan perundang‑undangan yang berlaku di Indonesia, termasuk tetapi tidak terbatas pada Undang‑Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik sebagaimana telah diubah dengan Undang‑Undang Nomor 19 Tahun 2016 (UU ITE) dan ketentuan hak cipta di bawah Undang‑Undang Hak Cipta. Pemilik hak berhak menuntut penghapusan/penarikan konten yang melanggar dari platform pihak ketiga dan/atau menempuh upaya hukum sesuai hukum yang berlaku.
@@ -324,8 +320,11 @@ Bogor Timur, Kota Bogor, 16144
 ```
 Media Sosial:
 
-## 📬 Sosial Hub:
-
+## Hubungi Saya:
+~~~
+- Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
+- terima kasih.saya senang bertemu dengan anda.!
+~~~
 <p>
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -340,15 +339,11 @@ Media Sosial:
 
 ---
 
-Cara menghubungi saya:
-- Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
-- terima kasih.saya senang bertemu dengan anda.!
-- Project ini dilisensikan di bawah
 
 **Copyright © {2026} Haris Arief Kamis
 All rights reserved.**
 
   
   <p align="center">
-  <sub>⭐ Jika repositori ini bermanfaat, jangan lupa beri bintang!</sub>
+  <sub>⭐ Thanks For Everthing,Jika repositori ini bermanfaat, jangan lupa beri bintang!⭐</sub>
 </p>
