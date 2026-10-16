@@ -54,10 +54,10 @@ Tujuan besarnya sederhana: membentuk Anda menjadi **problem solver** sejati buka
 
 - **Descriptive & Inferential Statistics:** fondasi statistik untuk membaca pola dan menarik kesimpulan
 - **SQL for Business Analytics:** dari basic clause hingga **window functions**, **CTE**, dan **query optimization**
-- **Python Data Stack****NumPy** & **Pandas** untuk **data wrangling**, **feature engineering**, dan **exploratory data analysis (EDA)**
+- **Python Data Stack**,**NumPy** & **Pandas** untuk **data wrangling**, **feature engineering**, dan **exploratory data analysis (EDA)**
 - **Data Cleaning & Preprocessing:** menangani **missing values**, **outliers**, **duplicates**, dan **data normalization**
 - **Data Visualization & Storytelling:** membangun **dashboard interaktif** dengan **Looker Studio**, **Matplotlib**, dan **Seaborn** untuk menyampaikan **actionable insights**
-- **Exploratory Data Analysis (EDA):** mengembangkan **data intuition** melalui **hypothesis testing** dan **pattern discovery**
+- **Exploratory Data Analysis (EDA)** mengembangkan **data intuition** melalui **hypothesis testing** dan **pattern discovery**
 - **Career & Technical Interview Prep**,**case study interview**, **SQL technical interview**, **CV review**, dan **behavioral interview**
 
 ### Framework & Workflow Belajar
