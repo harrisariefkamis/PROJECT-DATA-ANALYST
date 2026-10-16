@@ -321,10 +321,9 @@ Bogor Timur, Kota Bogor, 16144
 Media Sosial:
 
 ## Hubungi Saya:
-~~~
-- Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
-- terima kasih.saya senang bertemu dengan anda.!
-~~~
+```
+Untuk kerja sama & konsultasi, gunakan LinkedIn atau GitHub Issues diprofil/portofolio.
+```
 <p>
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -341,7 +340,7 @@ Media Sosial:
 
 
 **Copyright © {2026} Haris Arief Kamis
-All rights reserved.**
+All rights reserved.*
 
   
   <p align="center">
