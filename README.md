@@ -88,10 +88,8 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
 [![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
 [![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
-#### Business Intelligence & Spreadsheet
-<p>
-  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="assets/excel.svg" alt="Microsoft Excel" height="32"></a>
-</p>
+#### Google Spreadsheet
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://sheets.google.com)
 
 #### IDE & Development
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
