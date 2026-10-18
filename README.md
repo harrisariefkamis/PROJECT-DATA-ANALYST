@@ -4,6 +4,7 @@
 [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-8.0-blue.svg)](https://www.mysql.com/products/workbench/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 <p align="left">
   <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="925">
 </p>
