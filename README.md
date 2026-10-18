@@ -103,10 +103,8 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
   <img src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white" alt="Statistics">
   <img src="https://img.shields.io/badge/Linear_Algebra-0078D4?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Linear Algebra">
 </p>
----
 
 ## Summary Stack
-
 ```
 PROJECT-DATA-ANALYST/
 ├── 01-intro/
