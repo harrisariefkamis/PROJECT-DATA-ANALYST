@@ -4,9 +4,8 @@
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-8.0-blue.svg)](https://www.mysql.com/products/workbench/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
-[![Time Series](https://img.shields.io/badge/Time%20Series-Moving%20Average-green.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/NAMA-REPO/blob/main/NAMA-FILE.ipynb)
   <p>
-  <a href="https://colab.research.google.com"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab" height="28"></a>
   <a href="https://cloud.google.com/bigquery"><img src="https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg" alt="BigQuery" height="32"></a>
   <a href="https://lookerstudio.google.com"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Looker Studio" height="32"></a>
   <a href="https://sheets.google.com"><img src="https://ssl.gstatic.com/docs/common/product/sheets_app_icon1.png" alt="Google Sheets" height="32"></a>
