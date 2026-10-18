@@ -1,13 +1,10 @@
 
+[![License](https://img.shields.io/badge/license-MIT-informational.svg)]()
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-8.0-blue.svg)](https://www.mysql.com/products/workbench/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
 [![Time Series](https://img.shields.io/badge/Time%20Series-Moving%20Average-green.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-informational.svg)]()
-![Statistics](https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white)]()
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-0078D4?style=for-the-badge&logo=wolframmathematica&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 <p>
   <a href="https://colab.research.google.com"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab" height="28"></a>
   <a href="https://cloud.google.com/bigquery"><img src="https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg" alt="BigQuery" height="32"></a>
