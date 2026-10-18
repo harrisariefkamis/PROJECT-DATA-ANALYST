@@ -63,7 +63,7 @@ Setiap modul dirancang mengikuti **framework** pembelajaran yang konsisten:
 
 Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** serta merumuskan `data-driven policies` untuk mengelola suatu project bukan berdasarkan asumsi, melainkan berdasarkan **evidence**, **metrics**, dan **insight** yang terukur. **Curiosity** bukan sekadar sifat, tetapi **core skill** seorang Data Analyst profesional. `Analytical thinking` bukan bakat, melainkan kebiasaan yang dilatih. Dan **problem solving** bukan tujuan akhir melainkan **mindset** yang terus diasah.
 
-> **Filosofi belajar aku:** *"learn algroithm the Plant"* Setiap modul dirancang untuk melatih **analytical curiosity**, **problem framing**, dan **business acumen** tiga pilar utama untuk menjadi **insight-driven analyst** yang mampu membangun **arsitektur** dan **infrastruktur** analitik yang berdampak.
+> **Filosofi belajar aku:** *"learn algorithm the Plants"* Setiap modul dirancang untuk melatih **analytical curiosity**, **problem framing**, dan **business acumen** tiga pilar utama untuk menjadi **insight-driven analyst** yang mampu membangun **arsitektur** dan **infrastruktur** analitik yang berdampak.
 
 ## Tech Stack:
 
