@@ -5,25 +5,9 @@
 [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-8.0-blue.svg)](https://www.mysql.com/products/workbench/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/NAMA-REPO/blob/main/NAMA-FILE.ipynb)
-  <p>
-  <a href="https://cloud.google.com/bigquery"><img src="https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg" alt="BigQuery" height="32"></a>
-  <a href="https://lookerstudio.google.com"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Looker Studio" height="32"></a>
-  <a href="https://sheets.google.com"><img src="https://ssl.gstatic.com/docs/common/product/sheets_app_icon1.png" alt="Google Sheets" height="32"></a>
-</p>
-<p>
-  <a href="https://pandas.pydata.org"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="32"></a>
-  <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" height="32"></a>
-  <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="32"></a>
-  <a href="https://scikit-learn.org"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" height="32"></a>
-  <a href="https://matplotlib.org"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
-</p>
-
 <p align="left">
   <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="925">
 </p>
-
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
