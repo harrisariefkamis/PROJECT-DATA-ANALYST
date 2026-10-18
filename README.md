@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-MIT-informational.svg)]()
-[![Collaboration](https://img.shields.io/badge/Open_For-Collaboration-orange.svg?style=flat&logo=handshake&logoColor=white)]()
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat&logo=github&logoColor=white)](https://github.com/username/repo/issues)
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange.svg?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
