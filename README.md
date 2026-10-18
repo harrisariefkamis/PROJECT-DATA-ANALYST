@@ -80,7 +80,8 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
   <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" height="32"></a>
   <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="32"></a>
   <a href="https://scikit-learn.org"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" height="32"></a>
-  <a href="assets/matplotlib.svg"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
+  <a href="assets/matplotlib.svg" download>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="32">
 </p>
 
 #### Database
