@@ -82,9 +82,6 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
   <a href="https://scikit-learn.org"><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" alt="scikit-learn" height="90"></a>
   <a href="assets/matplotlib.svg" download>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="32">
-    <a href="assets/matplotlib.svg" download>
-  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2_compressed.svg" alt="Matplotlib" height="32">
-</a>
 </p>
 
 #### Database
