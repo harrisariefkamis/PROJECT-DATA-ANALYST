@@ -1,3 +1,4 @@
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![License](https://img.shields.io/badge/license-MIT-informational.svg)]()
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-8.0-blue.svg)](https://www.mysql.com/products/workbench/)
