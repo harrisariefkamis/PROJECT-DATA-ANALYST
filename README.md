@@ -4,7 +4,7 @@
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
 [![Time Series](https://img.shields.io/badge/Time%20Series-Moving%20Average-green.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-informational.svg)]()
-![Statistics](https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white)]()
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-0078D4?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
