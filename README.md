@@ -75,7 +75,7 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
 </p>
 
 #### Python Data Stack
-<p align="center">
+<p align="left">
   <a href="https://pandas.pydata.org"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="32"></a>
   <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" height="32"></a>
   <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" height="32"></a>
