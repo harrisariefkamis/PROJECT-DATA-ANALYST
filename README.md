@@ -4,7 +4,6 @@
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange.svg?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
-[![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-8.0-blue.svg)](https://www.mysql.com/products/workbench/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
 <p align="left">
   <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="925">
