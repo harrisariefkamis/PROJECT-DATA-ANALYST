@@ -1,13 +1,8 @@
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange.svg?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![License](https://img.shields.io/badge/license-MIT-informational.svg)]()
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-8.0-blue.svg)](https://www.mysql.com/products/workbench/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
-[![BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery)
-[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4.svg?style=for-the-badge&logo=googlelookerstudio&logoColor=white)](https://lookerstudio.google.com)
-[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white)](https://sheets.google.com)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 <p align="left">
   <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="925">
 </p>
