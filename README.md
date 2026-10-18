@@ -97,10 +97,9 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 #### Mathematics & Statistics Dasar
-<p>
-  <img src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white" alt="Statistics">
-  <img src="https://img.shields.io/badge/Linear_Algebra-0078D4?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Linear Algebra">
-</p>
+![Statistics](https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white)
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-0078D4?style=for-the-badge&logo=wolframmathematica&logoColor=white)
+![Probability](https://img.shields.io/badge/Probability-E91E63?style=for-the-badge&logo=mathoverflow&logoColor=white)
 
 ## Summary Stack
 ```
