@@ -21,7 +21,7 @@
   <a href="https://matplotlib.org"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="900">
 </p>
 
