@@ -75,7 +75,6 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
 </p>
 
 #### Python Data Stack
-
 <p>
   <a href="https://pandas.pydata.org"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" height="32"></a>
   <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" height="32"></a>
@@ -90,25 +89,20 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
 [![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
 #### Business Intelligence & Spreadsheet
-
 <p>
   <a href="https://www.microsoft.com/microsoft-365/excel"><img src="assets/excel.svg" alt="Microsoft Excel" height="32"></a>
 </p>
 
 #### IDE & Development
-
-<p>
-  <a href="https://code.visualstudio.com"><img src="assets/vscode.svg" alt="VS Code" height="32"></a>
-  <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-</p>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 #### Mathematics & Statistics Dasar
-
 <p>
   <img src="https://img.shields.io/badge/Statistics-009688?style=for-the-badge&logo=scipy&logoColor=white" alt="Statistics">
   <img src="https://img.shields.io/badge/Linear_Algebra-0078D4?style=for-the-badge&logo=wolframmathematica&logoColor=white" alt="Linear Algebra">
 </p>
-
 ---
 
 ## Summary Stack
