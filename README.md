@@ -25,6 +25,8 @@
   <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="450">
 </p>
 
+![Nama Gambar](https://github.com/username/nama-repo/blob/main/assets/nama-gambar.png?raw=true)
+
 # Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier
 
 <p align="center">
