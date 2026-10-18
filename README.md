@@ -21,6 +21,10 @@
   <a href="https://matplotlib.org"><img src="assets/matplotlib.svg" alt="Matplotlib" height="32"></a>
 </p>
 
+<p align="center">
+  <img src="poster-design-data-analyst,jpg"alt="data-analyst" width="450%">
+</p>
+
 # Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier
 
 <p align="center">
