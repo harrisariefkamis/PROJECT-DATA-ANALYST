@@ -1,11 +1,11 @@
-[![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange.svg?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![License](https://img.shields.io/badge/license-MIT-informational.svg)]()
+[![Collaboration](https://img.shields.io/badge/Open_For-Collaboration-orange.svg?style=flat&logo=handshake&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange.svg?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-8.0-blue.svg)](https://www.mysql.com/products/workbench/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
-[![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Collaboration](https://img.shields.io/badge/Open_For-Collaboration-orange.svg?style=flat&logo=handshake&logoColor=white)]()
 <p align="left">
   <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="925">
 </p>
