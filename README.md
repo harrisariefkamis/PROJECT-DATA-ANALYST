@@ -22,10 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="650">
+  <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="850">
 </p>
 
-![Nama Gambar](https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST/blob/e00a7c5de73da150d7fbe976d73794789a896a55/poster-design-data-analyst.jpg)
 
 # Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier
 
