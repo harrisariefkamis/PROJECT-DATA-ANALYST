@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="poster-design-data-analyst,jpg"alt="data-analyst" width="450%">
+  <img>src="files/poster-design-data-analyst.jpg"alt="data-analyst-poster" width="450%">
 </p>
 
 # Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier
