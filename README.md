@@ -85,12 +85,9 @@ Dengan **workflow** ini, Anda dan tim dapat mengambil **data-driven decisions** 
 </p>
 
 #### Database
-
-<p>
-  <a href="https://www.mysql.com"><img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL" height="32"></a>
-  <a href="https://www.postgresql.org"><img src="assets/postgresql.svg" alt="PostgreSQL" height="32"></a>
-  <a href="https://dbeaver.io"><img src="assets/dbeaver.svg" alt="DBeaver" height="32"></a>
-</p>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+[![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
 #### Business Intelligence & Spreadsheet
 
