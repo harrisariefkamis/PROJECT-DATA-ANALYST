@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="900">
+  <img src="poster-design-data-analyst.jpg" alt="data-analyst-poster" width="950">
 </p>
 
 
