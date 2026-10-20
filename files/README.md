@@ -1,6 +1,6 @@
 # Index: Files & Resources
 
-Dokumen ini adalah indeks cepat untuk file-file penting di repo PROJECT-DATA-ANALYST. Gunakan link di bawah untuk membuka, mengunduh, atau menjalankan notebook di Colab.
+Dokumen ini adalah indeks cepat untuk file-file penting di repo PROJECT-DATA-ANALYST. Gunakan link di bawah untuk membuka, menautkan, atau menjalankan notebook di Colab.
 
 ## Kontak & Profil
 - CONTACT (markdown): ../00-contact/CONTACT.md  
