@@ -668,7 +668,7 @@ Kontribusi terbuka! Silakan fork, buat branch, dan ajukan Pull Request untuk men
 
 ## 📄 Lisensi
 
-MIT License — bebas digunakan untuk edukasi dan komersial.
+MIT License — tidak bebas digunakan untuk edukasi dan komersial.
 
 ---
 
@@ -676,6 +676,6 @@ MIT License — bebas digunakan untuk edukasi dan komersial.
 
 ⭐ **Persiapan yang baik = 80% keberhasilan interview!** ⭐
 
-*Modul ini disusun untuk edukasi Data Analyst — [Nama Anda]*
+*Modul ini disusun untuk edukasi Data Analyst — [harryyss]*
 
 </div>
