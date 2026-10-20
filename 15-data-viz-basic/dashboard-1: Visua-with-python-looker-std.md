@@ -491,7 +491,7 @@ Kontribusi terbuka! Silakan fork, buat branch, dan ajukan Pull Request.
 
 ## 📄 Lisensi
 
-MIT License — bebas digunakan untuk edukasi dan komersial.
+MIT License — tidak bebas digunakan untuk edukasi dan komersial.
 
 ---
 
