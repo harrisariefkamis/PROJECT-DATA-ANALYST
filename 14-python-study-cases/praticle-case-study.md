@@ -1,4 +1,4 @@
-# 📊 Data Analysis with Python 3: Study Cases
+# 📊 Eksekusi with Python 3: Study Cases
 
 > Modul edukasi untuk menerapkan Python dalam analisis data nyata melalui studi kasus end-to-end: dari **data cleaning** hingga **presentasi insight**. Dirancang untuk pemula hingga menengah yang ingin menjadi **Data Analyst** profesional.
 
