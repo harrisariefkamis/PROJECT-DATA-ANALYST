@@ -603,7 +603,7 @@ Kontribusi selalu terbuka! Silakan:
 
 ## 📄 Lisensi
 
-MIT License — bebas digunakan untuk keperluan edukasi dan komersial.
+MIT License — tidak bebas digunakan untuk keperluan edukasi dan komersial.
 
 ---
 
@@ -611,7 +611,7 @@ MIT License — bebas digunakan untuk keperluan edukasi dan komersial.
 
 ⭐ **Jika modul ini bermanfaat, jangan lupa beri bintang di repo!** ⭐
 
-*Dibuat dengan ❤️ oleh [Nama Anda] — Data Analyst*
+*Dibuat dengan ❤️ oleh [harryyss] — Data Enthusiast*
 
 </div>
 
