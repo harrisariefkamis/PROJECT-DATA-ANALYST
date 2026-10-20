@@ -499,6 +499,6 @@ MIT License — tidak bebas digunakan untuk edukasi dan komersial.
 
 ⭐ **Selesaikan Project 2 dan tunjukkan kemampuan visualisasi Anda!** ⭐
 
-*Modul ini disusun untuk edukasi Data Analyst — [Nama Anda]*
+*Modul ini disusun untuk edukasi Data Analyst — [harryyss]*
 
 </div>
