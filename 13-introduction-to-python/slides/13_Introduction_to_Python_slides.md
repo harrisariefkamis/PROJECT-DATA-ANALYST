@@ -1,10 +1,3 @@
----
-marp: true
-theme: default
-paginate: true
-class: lead
----
-
 # Introduction to Python
 
 ---
@@ -104,7 +97,7 @@ type(12.0)  # float
 
 ## Penutup
 
-- Praktikkan di Colab: buka link yang sudah dibagikan
+- Praktikkan di Colab: buka dan baca >>> intro-python.md
 - Pertanyaan? Diskusi & Q&A
 
 ---
