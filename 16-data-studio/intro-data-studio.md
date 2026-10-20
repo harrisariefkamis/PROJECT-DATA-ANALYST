@@ -1,7 +1,3 @@
-Berikut adalah modul **Data Visualisation 2: Google Looker Studio** dalam format Markdown siap push ke GitHub. Modul ini mencakup panduan instalasi/login, koneksi data, pembuatan dashboard, KPI, interaktivitas, serta template deliverable executive summary.
-
----
-
 # 📊 Data Visualisation 2: Google Looker Studio
 
 > Modul lanjutan visualisasi data berbasis **Business Intelligence (BI)**. Pelajari cara membangun **dashboard interaktif** dengan Looker Studio — dari login, koneksi data, pembuatan KPI, hingga menyusun **executive summary** yang komunikatif untuk stakeholder.
