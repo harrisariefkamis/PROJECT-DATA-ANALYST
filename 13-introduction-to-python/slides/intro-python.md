@@ -466,8 +466,7 @@ MIT License — bebas digunakan untuk keperluan edukasi.
 
 | Tanggal | Versi | Perubahan |
 | :--- | :---: | :--- |
-| 2026-10-21 | 1.0.0 | Initial release — modul pengenalan Python di Colab |
-| — | — | *(tambahkan baris baru setiap update)* |
+| 2026-009-01 | 1.0.0 | Initial release — modul pengenalan Python di Colab |
 
 ---
 
