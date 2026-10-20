@@ -1,4 +1,4 @@
-# Panduan Lengkap Analisis Data: NumPy, Pandas & Studi Kasus Iris
+# Chapter-1 : NumPy, Pandas & Studi Kasus Iris
 
 > **Repositori ini** berisi panduan komprehensif untuk mempelajari dasar-dasar manipulasi data menggunakan **NumPy** dan **Pandas**, serta penerapannya dalam studi kasus nyata menggunakan dataset **Iris**. Cocok untuk pemula yang ingin memulai karir sebagai Data Analyst.
 
