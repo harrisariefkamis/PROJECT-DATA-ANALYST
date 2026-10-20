@@ -381,7 +381,7 @@ Kontribusi terbuka! Silakan fork, buat branch, dan ajukan Pull Request.
 
 ## 📄 Lisensi
 
-MIT License — bebas digunakan untuk edukasi dan komersial.
+MIT License — tidak bebas digunakan untuk edukasi dan komersial.
 
 ---
 
@@ -389,7 +389,7 @@ MIT License — bebas digunakan untuk edukasi dan komersial.
 
 ⭐ **Bangun dashboard interaktif pertama Anda dan tunjukkan insight-nya!** ⭐
 
-*Modul ini disusun untuk edukasi Data Analyst — [Nama Anda]*
+*Modul ini disusun untuk edukasi Data Analyst — [harryyss]*
 
 </div>
 ```
