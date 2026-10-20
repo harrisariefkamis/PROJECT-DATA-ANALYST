@@ -190,8 +190,7 @@ PROJECT-DATA-ANALYST/
 
 | Tanggal | Perubahan |
 | :--- | :--- |
-| 2026-09-01 | Initial version — indeks lengkap untuk 00-contact & 06-data-cleaning |
-| — | *(tambahkan baris baru setiap kali update indeks)* |
+| 2026-09-01 | Initial version — indeks lengkap untuk 00-contact & 17-proyek-wawancara |
 
 ---
 
