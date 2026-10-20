@@ -190,9 +190,9 @@ PROJECT-DATA-ANALYST/
 
 | Tanggal | Perubahan |
 | :--- | :--- |
-| 2026-10-21 | Initial version — indeks lengkap untuk 00-contact & 06-data-cleaning |
+| 2026-09-01 | Initial version — indeks lengkap untuk 00-contact & 06-data-cleaning |
 | — | *(tambahkan baris baru setiap kali update indeks)* |
 
 ---
 
-**Lisensi:** MIT — bebas digunakan dan dimodifikasi.
+**Lisensi:** MIT — tidak bebas digunakan dan dimodifikasi.
