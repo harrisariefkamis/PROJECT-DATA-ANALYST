@@ -1,7 +1,3 @@
-# Introduction to Python
-
----
-
 ## Tujuan Pembelajaran
 
 - Mengerti alasan menggunakan Python untuk data
