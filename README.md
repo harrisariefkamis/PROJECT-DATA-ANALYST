@@ -3,6 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange.svg?logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green)
+![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-orange)
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Advanced-34A853?labelColor=1E293B&logo=googlesheets&logoColor=white)
