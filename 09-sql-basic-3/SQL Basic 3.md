@@ -1,3 +1,6 @@
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?labelColor=2D3748&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?labelColor=2C3E50&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-Client-382923?labelColor=5A3A22&logo=dbeaver&logoColor=white)
 # SQL Basic 3 — DISTINCT, BETWEEN, INSERT, DELETE, ORDER BY, LIMIT, Alias & Careers
 
 ## Agenda
