@@ -7,6 +7,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7%2B-11557c)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-4c72b0)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?labelColor=1E293B&logo=scikitlearn&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![Database Tool](https://img.shields.io/badge/DBeaver-Latest-orange.svg)](https://dbeaver.io/)
