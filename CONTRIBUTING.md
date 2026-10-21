@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-MIT-informational.svg)]()
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?
 # Panduan Kontribusi
 
 Terima kasih atas minat Anda untuk berkontribusi pada repositori **`PROJECT-DATA-ANALYST`** *Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier*.
