@@ -35,7 +35,7 @@ SELECT nama_konsumen, alamat FROM tabel_konsumen WHERE deposit = 50000;
 ---
 
 ## Kategori Command SQL
-```mysql
+```text
 - DDL (Data Definition Language): mengubah struktur DB/tabel  
   - CREATE, ALTER, DROP, TRUNCATE  
 - DML (Data Manipulation Language): mengubah isi data  
@@ -157,11 +157,11 @@ Konteks: Anda di-hire sebagai Data Analyst untuk Tokopaedi. Bangun DB awal untuk
 
 Tugas:
 1. Buat database bernama `tokopaedi`.
-   ```sql 
+   ```text
    - CREATE DATABASE tokopaedi;
    ```
 3. Buat tabel `orders` dengan kolom berikut (tentukan tipe yang cocok):
-   ```sql
+   ```text
    - order_id (unik)  
    - order_date  
    - customer_id  
