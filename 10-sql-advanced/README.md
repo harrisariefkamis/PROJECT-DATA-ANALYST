@@ -20,13 +20,14 @@ Setelah modul ini peserta diharapkan dapat:
 ---
 
 ## 1) Fungsi Agregat (ringkas)
+```text
 Fungsi agregat melakukan operasi pada sekumpulan nilai dan mengembalikan satu nilai:
 - COUNT(expr) — hitung jumlah baris / nilai (COUNT(*) atau COUNT(DISTINCT col)).
 - SUM(expr) — jumlah total (berguna untuk sales/amount).
 - MIN(expr) — nilai minimum.
 - MAX(expr) — nilai maksimum.
 - AVG(expr) — rata-rata.
-
+```
 Contoh:
 ```sql
 SELECT
