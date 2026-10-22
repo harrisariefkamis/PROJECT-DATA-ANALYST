@@ -24,10 +24,11 @@
 
 ## 📦 Instalasi Pustaka
 
-Sebelum memulai, pastikan Anda telah menginstal pustaka yang dibutuhkan. Jalankan perintah berikut di terminal:
+Sebelum memulai, pastikan Anda telah menginstal pustaka yang dibutuhkan. Jalankan perintah berikut di terminal vscode:
 
 ```bash
 pip install pandas numpy
+pip install numpy as np
 ```
 
 Atau jika menggunakan `requirements.txt`:
