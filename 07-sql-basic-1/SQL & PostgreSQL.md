@@ -35,6 +35,7 @@ SELECT nama_konsumen, alamat FROM tabel_konsumen WHERE deposit = 50000;
 ---
 
 ## Kategori Command SQL
+```mysql
 - DDL (Data Definition Language): mengubah struktur DB/tabel  
   - CREATE, ALTER, DROP, TRUNCATE  
 - DML (Data Manipulation Language): mengubah isi data  
@@ -45,10 +46,11 @@ SELECT nama_konsumen, alamat FROM tabel_konsumen WHERE deposit = 50000;
   - COMMIT, ROLLBACK, SAVEPOINT  
 - DQL (Data Query Language): mengambil data  
   - SELECT
-
+```
 ---
 
 ## Contoh Query Dasar
+```sql
 - SELECT:
   SELECT col1, col2 FROM table WHERE condition ORDER BY col1 DESC LIMIT 10;
 - INSERT:
@@ -57,7 +59,7 @@ SELECT nama_konsumen, alamat FROM tabel_konsumen WHERE deposit = 50000;
   UPDATE orders SET status = 'shipped' WHERE id = 1;
 - DELETE:
   DELETE FROM orders WHERE created_at < '2023-01-01';
-
+```
 ---
 
 ## Mengenal PostgreSQL (singkat)
@@ -70,6 +72,7 @@ Tips: latihan gunakan psql (CLI) atau GUI seperti pgAdmin / DBeaver.
 ---
 
 ## Tipe Data Umum di PostgreSQL
+```sql
 - INT / INTEGER — bilangan bulat  
 - BIGINT — bilangan bulat lebih besar  
 - REAL / FLOAT / DOUBLE PRECISION — bilangan riil  
@@ -80,7 +83,7 @@ Tips: latihan gunakan psql (CLI) atau GUI seperti pgAdmin / DBeaver.
 - CHAR(n) — fixed-length string  
 - VARCHAR(n) — variable-length string  
 - TEXT — teks panjang tanpa batas praktis
-
+```
 ---
 
 ## Membuat & Menghapus Database
@@ -94,6 +97,7 @@ Di pgAdmin: klik kanan → Create → Database...
 ---
 
 ## Membuat & Menghapus Tabel
+```sql
 - Membuat tabel:
   CREATE TABLE nama_tabel (
     id SERIAL PRIMARY KEY,
@@ -104,27 +108,29 @@ Di pgAdmin: klik kanan → Create → Database...
   );
 - Menghapus tabel:
   DROP TABLE nama_tabel;
-
+```
 ---
 
 ## Memanipulasi Data (DML)
+```sql
 - INSERT (menambah baris):
   INSERT INTO produk (nama, qty, price) VALUES ('Pena', 100, 2500.00);
 - UPDATE (mengubah baris):
   UPDATE produk SET price = price * 1.1 WHERE kategori = 'Alat Tulis';
 - DELETE (menghapus baris):
   DELETE FROM produk WHERE id = 10;
-
+```
 ---
 
 ## Mengubah Struktur Tabel (ALTER)
+```sql
 - Tambah kolom:
   ALTER TABLE orders ADD COLUMN note TEXT;
 - Hapus kolom:
   ALTER TABLE orders DROP COLUMN note;
 - Ubah tipe kolom:
   ALTER TABLE orders ALTER COLUMN total TYPE NUMERIC(14,2);
-
+```
 ---
 
 ## Membuat Tabel dari File Eksternal (praktik)
@@ -150,9 +156,12 @@ Di pgAdmin: klik kanan → Create → Database...
 Konteks: Anda di-hire sebagai Data Analyst untuk Tokopaedi. Bangun DB awal untuk operasional order.
 
 Tugas:
-1. Buat database bernama `tokopaedi`.  
+1. Buat database bernama `tokopaedi`.
+   ```sql 
    - CREATE DATABASE tokopaedi;
-2. Buat tabel `orders` dengan kolom berikut (tentukan tipe yang cocok):
+   ```
+3. Buat tabel `orders` dengan kolom berikut (tentukan tipe yang cocok):
+   ```sql
    - order_id (unik)  
    - order_date  
    - customer_id  
@@ -168,6 +177,7 @@ Tugas:
    - city  
    - postal_code  
    - note (optional)
+   ```
 
 (Tip: gunakan SERIAL atau BIGINT untuk order_id; NUMERIC/DECIMAL untuk harga; DATE/TIMESTAMP untuk order_date)
 
