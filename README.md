@@ -197,7 +197,7 @@ jupyter notebook
 ---
 
 ## Tujuan Pembelajaran
-Repositori ini dirancang untuk membantu peserta:
+Repositori ini dirancang untuk membantu anda:
 - memahami dasar analisis data dan metrik bisnis;
 - menguasai SQL untuk analisis data dan kasus wawancara;
 - menggunakan Python untuk pemrosesan data dan studi kasus;
