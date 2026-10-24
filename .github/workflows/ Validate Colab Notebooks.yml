@@ -16,11 +16,13 @@ jobs:
     runs-on: ubuntu-24.04   # dipin agar tidak terpengaruh migrasi ubuntu-latest
 
     steps:
-      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+  # Ganti SHA checkout lama dengan yang baru
+  - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
-      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
-        with:
-          python-version: '3.11'
+  # Ganti SHA setup-python lama dengan yang baru
+  - uses: actions/setup-python@42375524d0a3c83d1a8f3d1779a827123c5c2a43 # v5.4.0
+    with:
+      python-version: '3.11'
           # cache: 'pip' dihapus karena tidak ada requirements.txt/pyproject.toml
 
       - name: Install dependencies
