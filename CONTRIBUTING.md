@@ -4,7 +4,7 @@
 
 Terima kasih atas minat Anda untuk berkontribusi pada repositori **`PROJECT-DATA-ANALYST`** *Data Analyst Bootcamp: Modul Praktik, Studi Kasus & Persiapan Karier*.
 
-> ⚠️ **CATATAN PENTING: Seluruh konten dilindungi hak cipta dan **kontribusi hanya dapat dilakukan oleh pihak yang telah memperoleh izin tertulis** dari pemilik repositori.
+> ⚠️ **CATATAN PENTING:** Seluruh konten dilindungi hak cipta dan **kontribusi hanya dapat dilakukan oleh pihak yang telah memperoleh izin tertulis** dari pemilik repositori.
 
 ---
 
