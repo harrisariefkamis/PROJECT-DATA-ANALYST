@@ -1,4 +1,4 @@
-# Google Sheets Mini Task — Answer Template
+# Mini Task — Answer Template
 
 Simpan jawaban Anda sebagai markdown (`answer_<nama>.md`) dan upload hasil sheet (`answer_<nama>.xlsx` atau `answer_<nama>.gsheet`) ke folder `06-data-cleaning/exercises/google-sheets-mini-task/`.
 
@@ -15,11 +15,9 @@ File hasil: `answer_<nama>.xlsx` / `answer_<nama>.gsheet`
 5. Conditional formatting: (rule yang dibuat)
 
 ### Dataset latihan
-
 - [Superstore dataset di Kaggle](https://www.kaggle.com/search?q=superstore): cari "Superstore" untuk dataset sejenis jika perlu data tambahan.
 
 ### Belajar lanjutan
-
 - [Kaggle Learn](https://www.kaggle.com/learn)
 - [PROJECT-DATA-ANALYST (roadmap utama)](https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST)
 
