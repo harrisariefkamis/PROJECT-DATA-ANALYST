@@ -1,4 +1,4 @@
-# 📚 Index: Files & Resources
+# Resources
 
 > **Indeks navigasi cepat** untuk seluruh aset di repositori **[PROJECT-DATA-ANALYST](https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST)**. Gunakan tabel di bawah untuk membuka file, menjalankan notebook di **Google Colab**, atau mengunduh resource secara langsung.
 
