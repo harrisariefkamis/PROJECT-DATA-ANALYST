@@ -7,3 +7,12 @@ order_id,order_date,customer_name,product,quantity,price,country
 1006,2026-10-03,Test User,Notebook,2,350000,ID
 1006,2026-10-03,Test User,Notebook,2,350000,ID
 1007,2026-10-04,Clara,Marker,3,,ID
+
+### Dataset latihan
+
+- [Superstore dataset di Kaggle](https://www.kaggle.com/search?q=superstore): cari "Superstore" untuk dataset sejenis jika perlu data tambahan.
+
+### Belajar lanjutan
+
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [PROJECT-DATA-ANALYST (roadmap utama)](https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST)
