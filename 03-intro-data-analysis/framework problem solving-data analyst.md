@@ -350,5 +350,3 @@ Problem solving yang efektif dimulai dengan klarifikasi masalah yang tepat, brea
 ### Repo terkait
 
 - [harrisariefkamis/PROJECT-DATA-ANALYST](https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST): roadmap belajar 17 modul
-
-> Halaman buku di Routledge dan Apple Books sudah dicek lewat pencarian. Link ASQ dan rujukan Toyota Business Practice ditulis dari ingatan, jadi cek ulang jika tidak terbuka. Badge GitHub dinamis baru tampil setelah file di-push dan repo-nya publik.
