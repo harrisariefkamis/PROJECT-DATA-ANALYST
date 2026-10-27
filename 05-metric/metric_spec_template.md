@@ -20,7 +20,7 @@ Gunakan template ini untuk mendokumentasikan setiap metrik. Simpan metric spec d
 ---
 
 ## Example: retention_d7 (filled)
-
+```teks
 - Name: retention_d7
 - Display name: 7-day retention
 - Owner: Product / Data PM
@@ -33,3 +33,4 @@ Gunakan template ini untuk mendokumentasikan setiap metrik. Simpan metric spec d
 - Edge cases: handle timezone by truncating timestamps to UTC date; treat multiple events same day as single return
 - SLO / Target: >= 25% after 7 days
 - Notes: v1 created 2026-10-15
+```
