@@ -14,11 +14,12 @@ File hasil: `answer_<nama>.xlsx` / `answer_<nama>.gsheet`
 4. Data validation: (kriteria yang dipasang)
 5. Conditional formatting: (rule yang dibuat)
 
-## Temuan singkat (3 bullet)
-- ...
-- ...
-- ...
+### Dataset latihan
 
-## Rekomendasi singkat
-- ...
+- [Superstore dataset di Kaggle](https://www.kaggle.com/search?q=superstore): cari "Superstore" untuk dataset sejenis jika perlu data tambahan.
+
+### Belajar lanjutan
+
+- [Kaggle Learn](https://www.kaggle.com/learn)
+- [PROJECT-DATA-ANALYST (roadmap utama)](https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST)
 
