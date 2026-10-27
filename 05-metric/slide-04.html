@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 40pt 40pt 48pt 40pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #FFFFFF; font-family: Arial, sans-serif;
+  color: #1C2833;
+}
+.header { border-bottom: 2pt solid #277884; padding-bottom: 10pt; margin-bottom: 20pt; }
+h1 { font-size: 28pt; margin: 0; color: #277884; }
+.content { display: flex; gap: 30pt; flex: 1; align-items: center; }
+.text-col { flex: 1; }
+.placeholder-col { flex: 1.5; height: 250pt; background: #F3F4F6; border: 1pt dashed #CBD5E1; border-radius: 8pt; display: flex; align-items: center; justify-content: center; }
+.placeholder-col p { color: #94A3B8; font-size: 12pt; }
+h3 { font-size: 18pt; margin: 0 0 10pt 0; color: #1C2833; }
+ul { padding-left: 20pt; }
+li { font-size: 14pt; margin-bottom: 10pt; }
+</style>
+</head>
+<body>
+<div class="header"><h1>The "Leaky Bucket" (Retention)</h1></div>
+<div class="content">
+  <div class="text-col">
+    <h3>Key Findings</h3>
+    <ul>
+      <li><b>Churn Point:</b> Drop-off terbesar terjadi antara Hari ke-3 dan Hari ke-7.</li>
+      <li><b>North Star:</b> D7 Retention adalah prediktor terbaik untuk LTV.</li>
+    </ul>
+    <p style="font-size: 13pt; background: #FEF2F2; color: #991B1B; padding: 10pt; border-radius: 4pt;">
+      <b>Action:</b> Tingkatkan <i>stickiness</i> sebelum hari ke-3 berakhir.
+    </p>
+  </div>
+  <div id="retention-chart" class="placeholder placeholder-col">
+    <p>[Retention Heatmap Chart]</p>
+  </div>
+</div>
+</body>
+</html>

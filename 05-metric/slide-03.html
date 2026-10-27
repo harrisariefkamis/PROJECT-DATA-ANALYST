@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 40pt 40pt 48pt 40pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #FFFFFF; font-family: Arial, sans-serif;
+  color: #1C2833;
+}
+.header { border-bottom: 2pt solid #277884; padding-bottom: 10pt; margin-bottom: 20pt; }
+h1 { font-size: 28pt; margin: 0; color: #277884; }
+.funnel { display: flex; flex-direction: column; gap: 8pt; flex: 1; justify-content: center; align-items: center; }
+.funnel-step { height: 40pt; display: flex; align-items: center; padding: 0 20pt; color: white; border-radius: 4pt; position: relative; }
+.step-1 { width: 500pt; background: #277884; }
+.step-2 { width: 400pt; background: #348E9B; }
+.step-3 { width: 300pt; background: #41A4B2; }
+.step-4 { width: 200pt; background: #5EA8A7; }
+.funnel-step p { margin: 0; font-size: 14pt; font-weight: bold; }
+.funnel-step span { position: absolute; right: -80pt; color: #1C2833; font-weight: normal; font-size: 12pt; }
+.opportunity { margin-top: 20pt; border-left: 4pt solid #FE4447; padding-left: 15pt; }
+.opportunity p { margin: 0; font-size: 14pt; }
+</style>
+</head>
+<body>
+<div class="header"><h1>AARRR Funnel Performance</h1></div>
+<div class="funnel">
+  <div class="funnel-step step-1"><p>Acquisition</p><span>100% Signup</span></div>
+  <div class="funnel-step step-2"><p>Activation</p><span>55.4% Key Action</span></div>
+  <div class="funnel-step step-3"><p>Retention</p><span>16.3% Day-7</span></div>
+  <div class="funnel-step step-4"><p>Revenue</p><span>6.4% Paid</span></div>
+</div>
+<div class="opportunity">
+  <p><b>Opportunity:</b> Ada drop-off 45% antara Signup ke Activation. Fokus utama harus pada perbaikan <i>Onboarding</i>.</p>
+</div>
+</body>
+</html>

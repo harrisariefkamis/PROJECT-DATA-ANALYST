@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body { margin: 0; padding: 0; }
+body {
+  width: 720pt; height: 405pt;
+  box-sizing: border-box;
+  padding: 40pt 40pt 48pt 40pt;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+  background: #FFFFFF; font-family: Arial, sans-serif;
+  color: #1C2833;
+}
+.header { border-bottom: 2pt solid #277884; padding-bottom: 8pt; margin-bottom: 12pt; }
+h1 { font-size: 26pt; margin: 0; color: #277884; }
+.grid { display: flex; gap: 30pt; flex: 1; }
+.card { flex: 1; padding: 15pt; border-radius: 8pt; background: #F9FAFB; border: 1pt solid #E5E7EB; }
+.card h2 { font-size: 18pt; margin-top: 0; color: #1C2833; }
+.card p { font-size: 13pt; line-height: 1.5; }
+.vanity { border-top: 5pt solid #94A3B8; }
+.actionable { border-top: 5pt solid #277884; }
+.insight-box { margin-top: 12pt; padding: 12pt; background: #E6F3F4; border-radius: 8pt; }
+.insight-box p { margin: 0; font-size: 12pt; color: #065F46; }
+</style>
+</head>
+<body>
+<div class="header"><h1>Vanity vs. Actionable Metrics</h1></div>
+<div class="grid">
+  <div class="card vanity">
+    <h2>Vanity</h2>
+    <p><b>Total Registered Users</b> (Cumulative). Terlihat bagus di atas kertas, tapi tidak menunjukkan kesehatan produk yang sesungguhnya.</p>
+  </div>
+  <div class="card actionable">
+    <h2>Actionable</h2>
+    <p><b>DAU</b> (Daily Active Users). Menunjukkan realitas keterikatan pengguna dan utilitas harian produk.</p>
+  </div>
+</div>
+<div class="insight-box">
+  <p><b>Insight:</b> Jangan tertipu lonjakan registrasi jika DAU stagnan. Perbaiki <i>retention</i>, bukan sekadar <i>acquisition</i>.</p>
+</div>
+</body>
+</html>
