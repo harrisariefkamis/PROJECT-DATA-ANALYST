@@ -1,5 +1,24 @@
 # 01 - On Boarding: Personal Roadmap Data Analyst
 
+![Level](https://img.shields.io/badge/Level-Pemula-brightgreen)
+![Fokus](https://img.shields.io/badge/Fokus-Data%20Analyst-blue)
+![Modul](https://img.shields.io/badge/Modul-01%20On%20Boarding-orange)
+![Bahasa](https://img.shields.io/badge/Bahasa-Indonesia-red)
+![Status](https://img.shields.io/badge/Status-Sedang%20Belajar-yellow)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=looker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+<!-- Badge dinamis: ganti USERNAME dan REPO dengan milikmu, lalu hapus tanda komentar ini
+![Last Commit](https://img.shields.io/github/last-commit/USERNAME/REPO)
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+![Issues](https://img.shields.io/github/issues/USERNAME/REPO)
+-->
+
 > Sesi teori on-boarding: memahami dunia data analysis, menyiapkan mindset belajar, dan menyusun roadmap pribadi.
 > **Aturan main:** pelajari teorinya dulu, pastikan sudah paham, baru lanjut tes hands-on praktik.
 
@@ -66,7 +85,7 @@ Ringkasan isi roadmap tersebut (17 modul):
 
 ## Personal Roadmap (Notepad)
 
-Isi bagian ini dengan catatan atau notepad.
+Isi bagian ini dengan data pribadimu.
 
 ```text
 Nama                 :
