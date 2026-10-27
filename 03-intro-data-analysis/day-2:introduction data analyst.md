@@ -293,4 +293,4 @@ Sesuaikan nama tabel dan kolom dengan dataset yang kamu pakai.
 - [Kaggle Learn](https://www.kaggle.com/learn)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial)
 
-> Link referensi di bagian ini ditulis dari ingatan dan belum saya cek satu per satu. Jika ada yang tidak terbuka, cari nama dokumennya langsung. Badge GitHub dinamis baru tampil setelah file di-push dan hanya berfungsi untuk repo publik.
+> Link referensi di bagian ini ditulis dari ingatan dan belum saya cek satu per satu.Jika ada yang tidak terbuka, cari nama dokumennya langsung.! 
