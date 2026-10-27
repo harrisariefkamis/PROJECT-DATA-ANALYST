@@ -26,5 +26,3 @@ Dokumen ini adalah indeks cepat untuk file-file penting di repo PROJECT-DATA-ANA
 - Link raw (contoh vCard raw URL) memungkinkan pengunduhan langsung tanpa membuka halaman GitHub.
 
 ---
-
-Jika Anda ingin menambahkan lebih banyak file ke indeks ini, cukup tambahkan baris baru dengan path relatif (lebih mudah dipelihara) atau URL Colab / raw sesuai kebutuhan.
