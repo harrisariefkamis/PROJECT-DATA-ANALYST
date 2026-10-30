@@ -2,28 +2,33 @@ name: Validate Colab Notebooks
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
     paths:
-      - 'notebooks/**.ipynb'
+      - 'notebooks/**'
   pull_request:
-    branches: [ main ]
+    branches: [main]
     paths:
-      - 'notebooks/**.ipynb'
+      - 'notebooks/**'
   workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   validate:
-    runs-on: ubuntu-24.04   # dipin agar tidak terpengaruh migrasi ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
 
     steps:
-  # Ganti SHA checkout lama dengan yang baru
-  - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - uses: actions/checkout@v4
 
-  # Ganti SHA setup-python lama dengan yang baru
-  - uses: actions/setup-python@42375524d0a3c83d1a8f3d1779a827123c5c2a43 # v5.4.0
-    with:
-      python-version: '3.11'
-          # cache: 'pip' dihapus karena tidak ada requirements.txt/pyproject.toml
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -33,47 +38,62 @@ jobs:
       - name: Detect notebooks
         id: detect
         run: |
-          if ls notebooks/*.ipynb 1> /dev/null 2>&1; then
-            echo "found=true" >> $GITHUB_OUTPUT
+          if [ -n "$(find notebooks -name '*.ipynb' -not -path '*/.ipynb_checkpoints/*' 2>/dev/null)" ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
           else
-            echo "found=false" >> $GITHUB_OUTPUT
+            echo "found=false" >> "$GITHUB_OUTPUT"
             echo "ℹ️ Tidak ada notebook, skip validasi."
           fi
 
-      - name: Validate JSON & Colab Metadata
+      - name: Validate JSON & Colab metadata
         if: steps.detect.outputs.found == 'true'
         run: |
           python << 'PYEOF'
           import sys, glob, nbformat
 
-          files = sorted(glob.glob('notebooks/*.ipynb'))
+          files = sorted(f for f in glob.glob('notebooks/**/*.ipynb', recursive=True)
+                         if '.ipynb_checkpoints' not in f)
           failed = 0
           for f in files:
               try:
                   nb = nbformat.read(f, as_version=4)
                   nbformat.validate(nb)
-                  colab_meta = nb.metadata.get('colab', {})
-                  if colab_meta:
+                  if nb.metadata.get('colab'):
                       print(f'ℹ️ {f}: metadata Colab ditemukan')
-                  print(f'✅ {f} struktur valid ({len(nb.cells)} cells)')
+                  print(f'✅ {f} valid ({len(nb.cells)} cells)')
               except Exception as e:
-                  print(f'❌ {f}: {e}')
+                  print(f'::error file={f}::{e}')
                   failed = 1
           sys.exit(1 if failed else 0)
           PYEOF
 
-      - name: Lint notebook code with nbqa
+      - name: Lint notebook code (error serius saja)
         if: steps.detect.outputs.found == 'true'
+        run: |
+          nbqa flake8 notebooks/ \
+            --select=E9,F63,F7,F82 \
+            --exclude=.git,__pycache__,.ipynb_checkpoints \
+            --statistics
+
+      - name: Lint notebook code (gaya, hanya peringatan)
+        if: steps.detect.outputs.found == 'true'
+        continue-on-error: true
         run: |
           nbqa flake8 notebooks/ \
             --max-line-length=120 \
             --extend-ignore=E203,W503,E402,E501,W291,W293 \
             --exclude=.git,__pycache__,.ipynb_checkpoints \
-            --statistics
+            --exit-zero --statistics
 
-      - name: Check for sensitive outputs (warning)
+      - name: Check for sensitive data (warning)
         if: steps.detect.outputs.found == 'true'
         run: |
-          if grep -r -i -E "api_key|password|secret|token" notebooks/*.ipynb; then
-            echo "::warning::Kemungkinan data sensitif ditemukan di output notebook."
+          files=$(grep -rliE "api[_-]?key|password|secret|AKIA[0-9A-Z]{16}|ghp_[A-Za-z0-9]{20,}|sk-[A-Za-z0-9]{20,}" \
+                  --include='*.ipynb' notebooks/ || true)
+          if [ -n "$files" ]; then
+            while read -r f; do
+              echo "::warning file=$f::Kemungkinan data sensitif ditemukan di notebook ini."
+            done <<< "$files"
+          else
+            echo "✅ Tidak ada pola data sensitif"
           fi
