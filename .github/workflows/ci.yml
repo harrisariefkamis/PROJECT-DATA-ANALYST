@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-    markdown:
+  markdown:
     name: Lint Markdown
     runs-on: ubuntu-24.04
     steps:
