@@ -1,1 +1,2 @@
 npx markdownlint-cli2 --fix "**/*.md"
+npx markdownlint-cli2 "**/*.md" 2>&1 | grep -oE 'MD[0-9]+' | sort | uniq -c | sort -rn
