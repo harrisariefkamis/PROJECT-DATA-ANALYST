@@ -4,16 +4,17 @@ on:
   issues:
     types: [opened]
 
+permissions: {}
+
 jobs:
   run:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       issues: write
-      pull-requests: write
 
     steps:
-      - name: 'Auto-assign issue'
-        uses: pozil/auto-assign-issue@v4.1.0
+      - name: Auto-assign issue
+        uses: pozil/auto-assign-issue@d6e511896e5f1d2408e74db74416647d8ff80c8c # v4.1.0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           assignees: harrisariefkamis
