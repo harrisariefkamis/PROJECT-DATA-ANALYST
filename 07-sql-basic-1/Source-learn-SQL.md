@@ -1,6 +1,6 @@
 # Sumber Belajar SQL
 
-Saya rekomendasikan dan melakukan riset kecil-kecilan ada tujuh sumber untuk belajar dan berlatih SQL yang snagat powerful yang dipelajari oleh beberapa perusahaan besar, dari tutorial pemula hingga latihan soal dan dokumentasi resmi. Enam platform masih sangat relevan dengan dunia industri sekarang. Sumber ketujuh adalah dokumentasi PostgreSQL sebagai referensi sintaks dan perilaku database.
+Saya rekomendasikan dan melakukan riset kecil-kecilan ada tujuh sumber untuk belajar dan berlatih SQL yang sangat powerful dan anda semua bisa pelajari oleh beberapa perusahaan besar, dari tutorial pemula hingga latihan soal dan dokumentasi resmi. Enam platform masih sangat relevan dengan dunia industri sekarang. Sumber ketujuh adalah dokumentasi PostgreSQL sebagai referensi sintaks dan perilaku database.
 
 ![SQL Learning](https://img.shields.io/badge/SQL-Learning%20Resources-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Seven Resources](https://img.shields.io/badge/Resources-7-2ea44f?style=for-the-badge)
