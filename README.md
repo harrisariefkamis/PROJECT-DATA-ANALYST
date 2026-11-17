@@ -18,49 +18,7 @@
 ![Statistics](https://img.shields.io/badge/Statistics-Expert-8B5CF6?labelColor=1E293B&logo=scipy&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Advanced-10B981?labelColor=1E293B&logo=pandas&logoColor=white)
 ![Metrics](https://img.shields.io/badge/Metrics-Analytics-3B82F6?labelColor=1E293B&logo=googleanalytics&logoColor=white)
-<!doctype html>
-<html lang="id">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Poster kurikulum dan perjalanan belajar Data Analyst.">
-  <title>Poster Data Analyst</title>
-  <style>
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      min-height: 100vh;
-      display: grid;
-      place-items: center;
-      padding: 24px;
-      background: #f3f4f6;
-      color: #172033;
-      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
-    }
-    main {
-      width: min(100%, 980px);
-      text-align: center;
-    }
-    h1 { margin: 0 0 16px; }
-    img {
-      display: block;
-      width: 100%;
-      height: auto;
-      border-radius: 12px;
-      box-shadow: 0 12px 32px rgb(0 0 0 / 14%);
-    }
-  </style>
-</head>
-<body>
-  <main>
-    <h1>Poster Data Analyst</h1>
-    <img
-      src="poster-design-data-analyst.jpg"
-      alt="Poster kurikulum belajar Data Analyst"
-    >
-  </main>
-</body>
-</html>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
