@@ -18,7 +18,9 @@
 ![Statistics](https://img.shields.io/badge/Statistics-Expert-8B5CF6?labelColor=1E293B&logo=scipy&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Advanced-10B981?labelColor=1E293B&logo=pandas&logoColor=white)
 ![Metrics](https://img.shields.io/badge/Metrics-Analytics-3B82F6?labelColor=1E293B&logo=googleanalytics&logoColor=white)
-
+align="left">
+  <img src="files/poster-design-data-analyst.jpg" alt="data-analyst-poster" width="925">
+</p> 
 <p align="center">
   <a href="https://www.linkedin.com/in/harisariefkamis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
