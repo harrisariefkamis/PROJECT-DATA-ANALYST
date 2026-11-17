@@ -7,7 +7,7 @@ Halaman ini merangkum tujuh sumber untuk belajar dan berlatih SQL, dari tutorial
 
 ## 1. HackerRank — latihan SQL
 
-[![HackerRank](HackerRank_Icon-100px.png)](https://www.hackerrank.com/domains/sql)
+[![HackerRank](HackerRank_Icon-1000px.png)](https://www.hackerrank.com/domains/sql)
 
 [HackerRank SQL](https://www.hackerrank.com/domains/sql) menyediakan tantangan coding berjenjang. Topiknya melatih dasar pengambilan dan penyaringan data hingga agregasi, JOIN, dan query yang lebih kompleks.
 
