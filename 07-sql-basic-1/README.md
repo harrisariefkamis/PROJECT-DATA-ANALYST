@@ -1,16 +1,42 @@
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLWorkbench](https://img.shields.io/badge/SQLWorkbench-1C2B36?style=flat&logo=sql&logoColor=white)](https://www.mysql.com/products/workbench/) [![VSCode](https://img.shields.io/badge/IDE-VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Basics-336791?logo=databricks&logoColor=white)
 
-# SQL Basic 1: Basic Clause
+# SQL Basic 1: Basic Clauses
 
-## Tujuan
-Mengenal dasar-dasar SQL dan struktur query yang digunakan untuk mengambil, menyaring, dan menganalisis data.
+Modul pengantar untuk memahami SQL dan struktur query yang digunakan untuk mengambil, menyaring, mengurutkan, dan menganalisis data relasional. Materi teori dan praktik PostgreSQL tersedia di [SQL & PostgreSQL](SQL%20%26%20PostgreSQL.md).
 
-## Materi Yang Dipelajari
-- SELECT, FROM, WHERE
-- ORDER BY dan LIMIT
-- DISTINCT, alias, fungsi dasar
-- filtering dengan comparison operators
+## Tujuan belajar
 
-## Deliverables
-- query dasar SQL
-- latihan perintah fundamental
+Setelah mempelajari modul ini, kamu diharapkan dapat:
+
+- Menjelaskan fungsi database, RDBMS, dan SQL.
+- Membaca serta menulis query SQL dasar.
+- Mengambil dan memfilter data sesuai kebutuhan analisis.
+- Mengenali perbedaan umum sintaks antar sistem database.
+- Melanjutkan latihan secara mandiri melalui sumber belajar SQL.
+
+## Materi
+
+- `SELECT` dan `FROM`
+- `WHERE` dan operator perbandingan/logika
+- `ORDER BY` dan `LIMIT`
+- `DISTINCT` dan alias kolom
+- Fungsi dasar serta pengantar agregasi
+- Pengantar PostgreSQL, tabel, dan tipe data
+
+## Sumber belajar SQL
+
+Kunjungi [Sumber Belajar SQL](source-learn-sql.md) untuk penjelasan dan tautan ke HackerRank, W3Schools, LeetCode, SQLBolt, dan SQLZoo. Ikuti urutan materi dari dasar, kemudian kerjakan latihan secara bertahap.
+
+## Latihan yang disarankan
+
+1. Tampilkan kolom tertentu dari satu tabel menggunakan `SELECT`.
+2. Terapkan beberapa kondisi dengan `WHERE`.
+3. Urutkan hasil dan batasi jumlah baris dengan `ORDER BY` dan `LIMIT`.
+4. Hilangkan nilai duplikat menggunakan `DISTINCT`.
+5. Tulis ringkasan singkat tentang pertanyaan yang dijawab query dan hasil yang diperoleh.
+
+Untuk latihan database dan PostgreSQL yang lebih lengkap, lihat [SQL & PostgreSQL](SQL%20%26%20PostgreSQL.md), termasuk mini task membangun database kecil untuk toko online.
+
+## Catatan
+
+Sintaks tertentu dapat berbeda berdasarkan database yang digunakan. Jalankan latihan pada lingkungan yang ditentukan dan rujuk dokumentasi resminya saat menemui perbedaan perilaku.
