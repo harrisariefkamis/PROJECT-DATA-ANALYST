@@ -25,7 +25,13 @@ Setelah mempelajari modul ini, kamu diharapkan dapat:
 
 ## Sumber belajar SQL
 
-Kunjungi [Sumber Belajar SQL](source-learn-sql.md) untuk penjelasan dan tautan ke HackerRank, W3Schools, LeetCode, SQLBolt, dan SQLZoo. Ikuti urutan materi dari dasar, kemudian kerjakan latihan secara bertahap.
+Kunjungi [Sumber Belajar SQL](source-learn-sql.md) untuk penjelasan dan tautan ke HackerRank, W3Schools, LeetCode, SQLBolt, SQLZoo, Mode, dan dokumentasi PostgreSQL. Ikuti urutan materi dari dasar, kemudian kerjakan latihan secara bertahap.
+
+### Studi kasus: analisis pola keterlambatan penerbangan
+
+Baca artikel [Project Mini SQL: Insight Bisnis — Cara Data Analyst Mengungkap Pola Delay Flight](https://harrisariefkamis.medium.com/project-mini-sql-insight-bisnis-cara-data-analyst-mengunkap-pola-delay-flight-0841230994e9). Studi kasus ini dapat menjadi bahan belajar untuk melihat penerapan SQL pada pertanyaan analisis nyata: mengeksplorasi data penerbangan, mencari pola keterlambatan, dan menyajikan temuan yang relevan untuk insight bisnis.
+
+Gunakan artikel sebagai panduan belajar, lalu coba tulis ulang query dan interpretasikan hasilnya sendiri. Periksa konteks, definisi kolom, dan sumber dataset yang digunakan sebelum menarik kesimpulan.
 
 ## Latihan yang disarankan
 
