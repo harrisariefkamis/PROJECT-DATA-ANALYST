@@ -3,9 +3,9 @@
 [![SQL](https://img.shields.io/badge/SQL-Data%20Quality-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Datasets](https://img.shields.io/badge/Datasets-17%20files-2ea44f?style=flat)](data/)
 
-# 06 — Data Cleaning
+# 06 Data Cleaning
 
-Folder ini berisi latihan pembersihan data untuk tingkat pemula hingga lanjutan, beserta contoh dataset beragam dalam format CSV dan Excel. Gunakan dataset untuk melatih pemeriksaan kualitas data, penanganan nilai kosong dan duplikat, konsistensi tipe data, validasi kategori, serta persiapan data sebelum analisis.
+Folder dataset ini berisi latihan pembersihan data untuk tingkat pemula hingga tingkat profesional. beserta contoh dataset beragam dalam format CSV dan Excel.utamakan understanding data,pelajari struktur datanya lalu gunakan dataset untuk melatih pemeriksaan kualitas data, penanganan nilai kosong dan duplikat, konsistensi tipe data, validasi kategori, serta persiapan data sebelum analisis.
 
 ## Materi dan kasus latihan
 
