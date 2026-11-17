@@ -1,0 +1,69 @@
+-- DATA FLIGHT DELAY ---
+
+SELECT * FROM `projectlharris.Data_Flight.data_flight`;
+
+--- Step 1: Data Cleaning & Validation ---
+# IS NULL, WHERE, basic filtering #
+SELECT *
+FROM `projectlharris.Data_Flight.data_flight`
+WHERE actual_departure IS NULL 
+   OR departure_delay IS NULL;
+
+--- Step 2: Calculate Average Delay by Airline ---
+# AVG(), GROUP BY, filtering with WHERE #
+SELECT airline, ROUND(AVG(departure_delay), 2) AS avg_delay
+FROM `Data_Flight.data_flight`
+WHERE cancelled = 0
+GROUP BY airline
+ORDER BY avg_delay DESC;
+
+--- Step 3: Analyze Delay by Time of Day ---
+# EXTRACT(HOUR), CASE WHEN, grouping #
+SELECT 
+  CASE
+    WHEN EXTRACT(HOUR FROM scheduled_departure) BETWEEN 5 AND 11 THEN 'Morning'
+    WHEN EXTRACT(HOUR FROM scheduled_departure) BETWEEN 12 AND 17 THEN 'Afternoon'
+    ELSE 'Evening'
+  END AS time_of_day,
+  ROUND(AVG(departure_delay), 2) AS avg_delay
+FROM `Data_Flight.data_flight`
+WHERE cancelled = 0
+GROUP BY time_of_day
+ORDER BY avg_delay DESC;
+
+--- Step 4: Identify Most Delayed Airports ---
+# GROUP BY, AVG(), airport-based comparison #
+SELECT origin, ROUND(AVG(departure_delay), 2) AS avg_delay
+FROM `Data_Flight.data_flight`
+WHERE cancelled = 0
+GROUP BY origin
+ORDER BY avg_delay DESC;
+
+--- Step 5: Cancellations by Airline ---
+# Aggregation, COUNT(), SUM(), calculated columns #
+SELECT 
+  airline,
+  COUNT(*) AS total_flights,
+  SUM(cancelled) AS total_cancelled,
+  ROUND(SUM(cancelled) * 100.0 / COUNT(*), 2) AS cancel_rate_percent
+FROM `Data_Flight.data_flight`
+GROUP BY airline
+ORDER BY cancel_rate_percent DESC;
+
+--- Step 6: Summary Dashboard View (Bonus) --
+# Combine metrics into one query #
+
+SELECT 
+  airline,
+  ROUND(AVG(departure_delay), 2) AS avg_delay,
+  SUM(cancelled) AS cancelled_flights,
+  COUNT(*) AS total_flights,
+  ROUND(SUM(cancelled) * 100.0 / COUNT(*), 2) AS cancel_rate_percent
+FROM `Data_Flight.data_flight`
+GROUP BY airline
+ORDER BY avg_delay DESC;
+
+--- QUERY SQL FINAL PROJECT MINI ---
+--- follow.tiktok aku @harrryyyst ---
+--- kalau kamu sudah copy ini ---
+--- save.latihan dlu! ----
