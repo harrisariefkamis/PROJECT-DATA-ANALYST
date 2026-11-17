@@ -1,0 +1,93 @@
+#INSTALASI LIBRARY PYTHON
+pip instal pandas
+import pandas as pd
+data={
+	"Nama":["Alex","Harris","Gibran","Prabowo"]
+	"Usia":[20,21,22,23,24]
+	"Kota":["Jakarta","Bandung","Bogor","Kalimantan"]
+}
+df=pd.DataFrame(data)
+print(df)
+#BUAT DATA,BACA DATA,MENULIS DATA
+df.pd.read_csv(contoh data csv)
+df.pd.read_excel(contoh data)
+file_path = "/home/user/Documents/data.csv"
+df = pd. read_csv(file_path)
+print (df. head())
+file_path = "../data/data.csv"
+df = pd.read_csv(file_path)
+print(df.head())
+import os
+os.chdir("/path/to/your/directory")
+df = pd.read_csv("data.csv")
+print(df.head())
+df = pd.read_csv("data.csv")
+print(df.dtypes)  # Memeriksa tipe semua kolom
+print(df['Usia'].dtype)  # Tipe kolom spesifik
+df['Usia'] = df['Usia'].astype(float)  # Konversi tipe data
+df = df.convert_dtypes()  # Konversi otomatis tipe data terbaik
+#nilai hilang
+print(df.is.null).sum())
+#mengganti nilai hilang
+# Untuk kolom kategorikal
+df['Departemen'] = df['Departemen'].fillna('Unknown')
+
+# Untuk semua kolom kategorikal
+categorical_columns = df.select_dtypes(include=['object']).columns
+df[categorical_columns] = df[categorical_columns].fillna('Unknown')
+
+# Untuk kolom numerik
+df['Usia'].fillna(df['Usia'].mean(), inplace=True)
+#Membersihkan Placeholder:
+df.replace(['NA', '?', '-'], pd.NA, inplace=True)
+
+# Muat data
+import pandas as pd
+df = pd.read_csv("data.csv")
+
+# Cek tipe data
+print(df.dtypes)
+
+# Ubah tipe data jika perlu
+df['Usia'] = df['Usia'].astype(float)
+df['ID Karyawan'] = df['ID Karyawan'].astype(str)
+df['ID Karyawan'] = df['ID Karyawan'].astype(str)
+df = df.convert_dtypes()
+
+# Identifikasi nilai hilang
+print(df.isnull().sum())
+
+# Ganti placeholder
+df.replace(['NA', '?', '-'], pd.NA, inplace=True)
+
+# Isi nilai kosong
+categorical_columns = df.select_dtypes(include=['object']).columns
+df[categorical_columns] = df[categorical_columns].fillna('Unknown')
+df['Usia'].fillna(df['Usia'].mean(), inplace=True)
+import os
+data_directory = os.getenv("DATA_DIR", "/default/path/to/data")
+file_path = os.path.join(data_directory, "data.csv")
+df = pd.read_csv(file_path)
+print(df.head())
+url = "https://example.com/data.csv"
+df = pd.read_csv(url)
+print(df.head())
+
+pip instal numpy
+import numpy as np
+data1=np.array([[1,2,3,4])
+data2=np.array([[1,2],[3,4]])
+df.pd.Dataframe(data)
+print(df)
+pip instal matplotlib
+import matplotlib.pyplot as plt
+data={
+	"Nama":["Alex","Harris","Gibran","Prabowo"]
+	"Usia":[20,21,22,23,24]
+	"Kota":["Jakarta","Bandung","Bogor","Kalimantan"]
+}
+df.pd.DataFrame(data)
+print(data)
+plt.hist(data
+
+pip instal scikitlearn

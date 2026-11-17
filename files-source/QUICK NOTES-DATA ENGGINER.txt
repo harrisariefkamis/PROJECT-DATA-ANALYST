@@ -1,0 +1,93 @@
+QUICK NOTE BELAJAR:
+
+1. Mengisi Nilai ke Variabel
+Di Python, operator = digunakan untuk memberikan nilai kepada variabel.
+
+number = 10
+text = "Hello, World!"
+2. Menampilkan Data
+Untuk menampilkan nilai di layar, gunakan fungsi print(). Berikut adalah contoh menggunakan variabel yang telah dibuat:
+
+print(number)  # Output: 10
+print(text)    # Output: Hello, World!
+3. Struktur Data di Python
+Python menyediakan berbagai struktur data bawaan untuk mengelola urutan dan koleksi elemen. Beberapa di antaranya meliputi:
+
+List: Koleksi yang dapat diubah dan terurut, menggunakan [].
+Tuple: Koleksi tidak dapat diubah dan terurut, menggunakan ().
+Set: Koleksi tidak terurut dari elemen unik, menggunakan {}.
+Dictionary: Koleksi pasangan kunci-nilai, menggunakan {} dengan tanda titik dua :.
+Bekerja dengan List
+List adalah salah satu struktur data yang paling serbaguna dan banyak digunakan di Python.
+
+numbers = [1, 2, 3]
+numbers.append(4)
+second_element = numbers[1]
+print(second_element)  # Output: 2
+print(len(numbers))    # Output: 4
+
+for number in numbers:
+    print(number)
+Bekerja dengan Tuple
+Tuple bersifat tidak dapat diubah (immutable) dan ideal untuk koleksi tetap elemen.
+
+empty_tuple = ()
+single_element_tuple = (5,)
+my_tuple = (1, 2, 3, "hello", 4.5)
+
+print(my_tuple[0])  # Output: 1
+print(my_tuple[-1]) # Output: 4.5
+count = my_tuple.count(2)
+index = my_tuple.index("hello")
+Bekerja dengan Set
+Set menyimpan elemen unik dan berguna untuk operasi seperti gabungan (union), irisan (intersection), dan selisih (difference).
+
+empty_set = set()
+my_set = {1, 2, 3, 4, 5}
+list_to_set = set([1, 2, 2, 3, 4])
+
+print(3 in my_set)  # Output: True
+my_set.add(6)
+
+set1 = {1, 2, 3}
+set2 = {3, 4, 5}
+
+print(set1 | set2)  # Gabungan: {1, 2, 3, 4, 5}
+print(set1 & set2)  # Irisan: {3}
+print(set1 - set2)  # Selisih: {1, 2}
+Bekerja dengan Dictionary
+Dictionary menyimpan pasangan kunci-nilai dan sangat fleksibel untuk mengatur data.
+
+empty_dict = {}
+my_dict = {"name": "Alice", "age": 25, "city": "Jakarta"}
+
+print(my_dict["name"])  # Output: Alice
+print(my_dict.get("country", "Unknown"))  # Output: Unknown
+
+my_dict["country"] = "Indonesia"
+my_dict["age"] = 26
+del my_dict["city"]
+
+age = my_dict.pop("age", None)
+
+for key in my_dict:
+    print(key, my_dict[key])
+
+for key, value in my_dict.items():
+    print(f"{key}: {value}")
+Mendeklarasikan dan Menggunakan Fungsi
+Fungsi membantu mengorganisasi kode menjadi blok yang dapat digunakan kembali. Di Python, fungsi didefinisikan menggunakan kata kunci def.
+
+def square(x):
+    return x**2
+
+number = 10
+squared_value = square(number)
+print(squared_value)  # Output: 100
+Menangani Pengecualian
+Gunakan blok try-except untuk menangani kesalahan potensial dengan cara yang elegan.
+
+try:
+    result = number / 0
+except ZeroDivisionError:
+    print("Error: division by zero")
