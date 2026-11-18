@@ -1,4 +1,4 @@
-# SQL Technical Interview Case Studies — SQL for Data Analysis 5
+# SQL Technical Interview Case Studies SQL for Data Analysis 5
 
 ## Tujuan Modul
 Mempersiapkan peserta menghadapi tes teknis SQL pada proses rekrutmen: menyelesaikan studi kasus, menulis query yang benar, efisien, dan dapat dijelaskan, serta memahami trade-off performa.
