@@ -86,4 +86,4 @@ Hints: use cohort_month = date_trunc('month', signup_date), then join events agg
 - PostgreSQL docs (window functions, date_trunc, indexing)  
 - "SQL Practice Problems" book / online resources  
 - Kaggle / datasets untuk latihan (superstore, e-commerce logs)
-- Rekomendasi use case project SQL : "https://docs.google.com/presentation/d/1GqXWieXo9ZB9qT2AHpt6lHk7ZePOgVrb/edit?usp=sharing&ouid=107913606143345377665&rtpof=true&sd=true"
+- Rekomendasi use case project FINAL SQL : https://docs.google.com/presentation/d/1GqXWieXo9ZB9qT2AHpt6lHk7ZePOgVrb/edit?usp=sharing&ouid=107913606143345377665&rtpof=true&sd=true
