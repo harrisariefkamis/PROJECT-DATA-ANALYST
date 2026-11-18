@@ -1,6 +1,6 @@
 # 📊 Data Visualisation 2: Google Looker Studio
 
-> Modul lanjutan visualisasi data berbasis **Business Intelligence (BI)**. Pelajari cara membangun **dashboard interaktif** dengan Looker Studio — dari login, koneksi data, pembuatan KPI, hingga menyusun **executive summary** yang komunikatif untuk stakeholder.
+> Modul lanjutan visualisasi data berbasis **Business Intelligence (BI)**. Pelajari cara membangun **dashboard interaktif** dengan Looker Studio dari login, koneksi data, pembuatan KPI, hingga menyusun **executive summary** yang komunikatif untuk stakeholder.
 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
@@ -21,6 +21,9 @@
 - [📝 Template Laporan Executive Summary](#-template-laporan-executive-summary)
 - [🏆 Best Practices Desain Dashboard](#-best-practices-desain-dashboard)
 - [📚 Resources](#-resources--referensi)
+- LIHAT USE CASE PROJECT FINAL DATA VISUALISASI:[https://docs.google.com/presentation/d/1p7I1m8jI9Z-lDeosWwtPeWELA2r_fpCk/edit?usp=sharing&ouid=107913606143345377665&rtpof=true&sd=true]
+- Lihat sumber root/path: [18-project-data-Visualisasi](https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST/tree/cb6e99e7679b916ef0a3323a7cfcf1f2b7a9c773/18-project-data-Visualisasi)
+- lihat sumber source dataset: https://github.com/harrisariefkamis/PROJECT-DATA-ANALYST/blob/cb6e99e7679b916ef0a3323a7cfcf1f2b7a9c773/19-data-source-project/overview.md
 
 ---
 
