@@ -24,6 +24,7 @@
 - [📝 Template Laporan](#-template-laporan-analisis)
 - [📚 Resources](#-resources--referensi)
 - [🤝 Kontribusi](#-kontribusi)
+- LIHAT USE CASE PROJECT FINAL PYTHON : https://docs.google.com/presentation/d/1UFn5wWvjPQynrFhW2lTQg_Uyl3cdKEDw/edit?usp=sharing&ouid=107913606143345377665&rtpof=true&sd=true
 
 ---
 
